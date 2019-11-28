@@ -1,0 +1,286 @@
+[ 2019-03-21T10:42:34+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=e09a4752cfdca721e721fe537cc4c47027b0bec4&timestamp=1553136263&nonce=1206459262&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+ERR: signature: e09a4752cfdca721e721fe537cc4c47027b0bec4
+ERR: hashcode: e09a4752cfdca721e721fe537cc4c47027b0bec4
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1553136253</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2019-03-21T10:42:43+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=677d8c3054a456b53a196f21494f2bf255e70f3b&timestamp=1553136272&nonce=1437572933&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+ERR: signature: 677d8c3054a456b53a196f21494f2bf255e70f3b
+ERR: hashcode: 677d8c3054a456b53a196f21494f2bf255e70f3b
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1553136272</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+ERR: 得到nickname微信名称为:白鳥の思考に
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-03-21T10:49:04+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=b86710d7cc514b3abe3ad49f1cd22920ef4d2b6b&timestamp=1553136653&nonce=1843846853&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+ERR: signature: b86710d7cc514b3abe3ad49f1cd22920ef4d2b6b
+ERR: hashcode: b86710d7cc514b3abe3ad49f1cd22920ef4d2b6b
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1553136653</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[11]]></Content>
+<MsgId>22235572355035782</MsgId>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+ERR: 得到nickname微信名称为:白鳥の思考に
+
+[ 2019-03-21T10:57:29+08:00 ] 182.150.160.248 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2019-03-21T10:57:39+08:00 ] 182.150.160.248 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2019-03-21T10:58:11+08:00 ] 182.150.160.248 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Undefined variable: variable /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 501 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2019-03-21T11:04:42+08:00 ] 182.150.160.248 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2019-03-21T11:06:39+08:00 ] 182.150.160.248 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+
+[ 2019-03-21T11:14:48+08:00 ] 182.150.160.248 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+
+[ 2019-03-21T11:15:15+08:00 ] 183.3.234.60 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+
+[ 2019-03-21T11:15:36+08:00 ] 183.3.234.60 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+
+[ 2019-03-21T11:15:49+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=cdfc68db4239ec5063d9009fef4c0b4fda6d4056&timestamp=1553138259&nonce=1422564341&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+ERR: signature: cdfc68db4239ec5063d9009fef4c0b4fda6d4056
+ERR: hashcode: cdfc68db4239ec5063d9009fef4c0b4fda6d4056
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1553138259</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[1]]></EventKey>
+<Ticket><![CDATA[gQHQ8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyc3dhRklXcVNkQ0UxMDAwMDAwM08AAgS4-5JcAwQAAAAA]]></Ticket>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+ERR: 得到nickname微信名称为:白鳥の思考に
+
+[ 2019-03-21T11:16:15+08:00 ] 101.91.60.110 /tp3.2/index.php/admin/wx/weixinCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+
+[ 2019-03-21T11:51:09+08:00 ] 183.3.234.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.001256s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.001110s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2019-03-21T11:51:31+08:00 ] 117.136.62.31 /tp3.2/home/Wx2/code?uid=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+ERR: uid为:100001
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2019-03-21T11:52:31+08:00 ] 61.151.178.166 /tp3.2/home/Wx2/code?uid=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+ERR: uid为:100001
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2019-03-21T16:52:44+08:00 ] 183.3.234.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.001294s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.001152s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2019-03-21T22:05:26+08:00 ] 183.3.234.61 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.001270s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.001077s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2019-03-21T22:05:37+08:00 ] 183.3.234.55 /tp3.2/home/Wx2/code?uid=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+ERR: uid为:100001
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2019-03-21T22:05:38+08:00 ] 183.3.234.55 /tp3.2/home/Wx2/getUserInfoAll?uid=100001&code=071cIU6Z1GHUCT0v2y6Z1pZz6Z1cIU6P&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wx5` [ RunTime:0.001251s ]
+ERR: 1146:Table 'yuebao.wx5' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `wx5`
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001116s ]
+SQL: SELECT * FROM `user_list` WHERE ( unionid='ovbcLwaW45smk3iBT56-v6-FubJM' )  [ RunTime:0.000266s ]
+SQL: UPDATE `user_list` SET `login_time`='2019-03-21 22:05:38' WHERE ( uid='100001' ) [ RunTime:0.000378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2019-03-21T22:06:37+08:00 ] 61.151.207.141 /tp3.2/home/Wx2/code?uid=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+ERR: uid为:100001
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+

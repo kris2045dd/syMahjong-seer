@@ -1,0 +1,1495 @@
+[ 2019-02-26T10:49:09+08:00 ] 39.187.103.48 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000435s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000570s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100099.png' )  [ RunTime:0.000344s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100099,'http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erPCHavza2MFbJpnMwXphPm7NzVXTNIvgFHfibLVMNZQicr4m3gv6R6IjjzAto7QiaODc8tuYAF8zH9Q/132','100099.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100099.png') [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000151s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000241s ]
+
+[ 2019-02-26T18:59:32+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000493s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000458s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000157s ]
+
+[ 2019-02-26T18:59:42+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000432s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000513s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2019-02-26T19:00:00+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000451s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000509s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2019-02-26T19:00:07+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000300s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000456s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000151s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000232s ]
+
+[ 2019-02-26T19:00:16+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000465s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000569s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000199s ]
+
+[ 2019-02-26T19:00:27+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000411s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000466s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2019-02-26T19:00:35+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000418s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000452s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000140s ]
+
+[ 2019-02-26T21:34:24+08:00 ] 182.149.167.36 /tp3.2/index.php/home/indexComputer/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000841s ]
+SQL: SELECT * FROM `user` WHERE ( phone='13200231520' and password='abc123' )  [ RunTime:0.000403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000177s ]
+
+[ 2019-02-26T21:34:26+08:00 ] 182.149.167.36 /tp3.2/index.php/home/PayPwd/accountBalance/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001335s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000572s ]
+SQL: SHOW COLUMNS FROM `bank_katti` [ RunTime:0.000643s ]
+SQL: SELECT `balance` FROM `bank_katti` WHERE ( uid='100005' )  [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2019-02-26T21:34:26+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomeTree/isshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000813s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2019-02-26T21:34:26+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomeTree/pretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000902s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000556s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2019-02-26T21:34:26+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomeTree/pretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000834s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000509s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2019-02-26T21:34:26+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomeTree/prepretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000837s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000566s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000258s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) ) LIMIT 1   [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:34:26+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomeTree/prepretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000880s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000432s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000343s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) ) LIMIT 1   [ RunTime:0.000226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:34:26+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomeTree/accumulativeIncome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000879s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000546s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100038 )  [ RunTime:0.000356s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100039 )  [ RunTime:0.000363s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100043 )  [ RunTime:0.000337s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100042 )  [ RunTime:0.000359s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100040 )  [ RunTime:0.000325s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100044 )  [ RunTime:0.000350s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100045 )  [ RunTime:0.000354s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100054,100059,100074) )  [ RunTime:0.000333s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100054 )  [ RunTime:0.000313s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100059 )  [ RunTime:0.000312s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100074 )  [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+
+[ 2019-02-26T21:34:26+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomeTree/profittotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000854s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000422s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000599s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid='100005' )  [ RunTime:0.000312s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid in(100038,100039,100043,100042,100040,100044,100045) )  [ RunTime:0.000204s ]
+SQL: SELECT * FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) )  [ RunTime:0.000421s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid in(100054,100059,100074) )  [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:34:27+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomeTree/preList/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001028s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000566s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100038 )  [ RunTime:0.000375s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100039 )  [ RunTime:0.000362s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100043 )  [ RunTime:0.000369s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100042 )  [ RunTime:0.000322s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100040 )  [ RunTime:0.000296s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100044 )  [ RunTime:0.000313s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100045 )  [ RunTime:0.000289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2019-02-26T21:34:42+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Level/teaname/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001108s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2019-02-26T21:34:42+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Level/level/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000946s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:42+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Level/beans/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000907s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000506s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv=2) ) LIMIT 1   [ RunTime:0.000328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:42+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Level/profit/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000771s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000426s ]
+SQL: SELECT sum(profit+pre_profit+pre_pre_profit) as sum FROM `user_list` WHERE ( pre_uid='100005' )  [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:42+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Level/ee/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000843s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000584s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2019-02-26T21:34:43+08:00 ] 182.149.167.36 /tp3.2/index.php/home/HomePage/beAudited
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001017s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000580s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' and (proxy_lv='3' or proxy_lv='4' or proxy_lv='5') )  [ RunTime:0.000333s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( uid in(100038,100039,100043,100042,100040,100044,100045) and examine=0 ) LIMIT 1   [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000135s ]
+
+[ 2019-02-26T21:34:43+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Level/teaname/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000864s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:34:43+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Level/level/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000855s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000444s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:34:43+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Level/ee/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000772s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:46+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ordinaryCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001183s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000719s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='0' or proxy_lv='1') ) LIMIT 1   [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000165s ]
+
+[ 2019-02-26T21:34:46+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ordinaryCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000843s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000556s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='0' or proxy_lv='1') and regisder_time>='2019-02-19 21:34:46' and regisder_time<='2019-02-26 21:34:46' ) LIMIT 1   [ RunTime:0.000357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:46+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/beansCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000986s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000543s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='2' ) LIMIT 1   [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2019-02-26T21:34:46+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/beansCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000888s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000560s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='2' and regisder_time>='2019-02-19 21:34:46' and regisder_time<='2019-02-26 21:34:46' ) LIMIT 1   [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:46+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/promotersCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000889s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000549s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='3' or proxy_lv='4'  or proxy_lv='5') ) LIMIT 1   [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:34:46+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/promotersCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000841s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000441s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='3' or proxy_lv='4' or proxy_lv='5') and regisder_time>='2019-02-19 21:34:46' and regisder_time<='2019-02-26 21:34:46' ) LIMIT 1   [ RunTime:0.000337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000122s ]
+
+[ 2019-02-26T21:34:46+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ownerCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000864s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000517s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='5' ) LIMIT 1   [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:34:46+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ownerCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000873s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000669s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='5' and regisder_time>='2019-02-19 21:34:46' and regisder_time<='2019-02-26 21:34:46' ) LIMIT 1   [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:34:48+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000999s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000630s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000553s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' )  [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2019-02-26T21:34:48+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/thisMonth/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000806s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000554s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000514s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2019-02-1 00:00:00' and time<'2019-03-1 00:00:00' )  [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:34:48+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000877s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000450s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000589s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2019-01-1 00:00:00' and time<'2019-02-1 00:00:00' )  [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:48+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a3/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000914s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000573s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-11-1 00:00:00' and time<'2018-12-1 00:00:00' )  [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:34:48+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a4/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000764s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000506s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-10-1 00:00:00' and time<'2018-11-1 00:00:00' )  [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:34:48+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000832s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000519s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-12-1 00:00:00' and time<'2019-01-1 00:00:00' )  [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:48+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a5/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000840s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000529s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-09-1 00:00:00' and time<'2018-10-1 00:00:00' )  [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:34:48+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a6/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000885s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000550s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000525s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-08-1 00:00:00' and time<'2018-09-1 00:00:00' )  [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:50+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ordinaryCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001064s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000612s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='0' or proxy_lv='1') ) LIMIT 1   [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000233s ]
+
+[ 2019-02-26T21:34:50+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ordinaryCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000850s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000478s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='0' or proxy_lv='1') and regisder_time>='2019-02-19 21:34:50' and regisder_time<='2019-02-26 21:34:50' ) LIMIT 1   [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:34:50+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/beansCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000842s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000514s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='2' ) LIMIT 1   [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000190s ]
+
+[ 2019-02-26T21:34:50+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/beansCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000842s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000538s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='2' and regisder_time>='2019-02-19 21:34:50' and regisder_time<='2019-02-26 21:34:50' ) LIMIT 1   [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:34:50+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/promotersCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000843s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000485s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='3' or proxy_lv='4'  or proxy_lv='5') ) LIMIT 1   [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2019-02-26T21:34:50+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/promotersCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000824s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000420s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='3' or proxy_lv='4' or proxy_lv='5') and regisder_time>='2019-02-19 21:34:50' and regisder_time<='2019-02-26 21:34:50' ) LIMIT 1   [ RunTime:0.000337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2019-02-26T21:34:50+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ownerCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000834s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000562s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='5' ) LIMIT 1   [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:34:50+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ownerCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000846s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000559s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='5' and regisder_time>='2019-02-19 21:34:50' and regisder_time<='2019-02-26 21:34:50' ) LIMIT 1   [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:34:55+08:00 ] 182.149.167.36 /tp3.2/index.php/home/PtPlayer/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001097s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000742s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000319s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100038,100039,100043,100042,100040,100044,100045) and (proxy_lv='0' or proxy_lv='1') )  [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000666s ]
+SQL: SELECT SUM(profit_log.self_profit+profit_log.pre_profit+profit_log.pre_pre_profit) as sum,user_list.head_pic,user_list.uid,user_list.wx_name,date_format(last_login_time,'%Y-%m-%d') as last_login_time FROM `profit_log` LEFT JOIN user_list ON profit_log.gen_uid=user_list.uid  WHERE ( gen_uid=100039 or gen_uid=100040 ) GROUP BY profit_log.gen_uid  [ RunTime:0.000493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2019-02-26T21:34:57+08:00 ] 182.149.167.36 /tp3.2/index.php/home/CoinPlayer/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001005s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000577s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000385s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100038,100039,100043,100042,100040,100044,100045) and proxy_lv='2' )  [ RunTime:0.000370s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000603s ]
+SQL: SELECT SUM(profit_log.self_profit+profit_log.pre_profit+profit_log.pre_pre_profit) as sum,user_list.head_pic,user_list.uid,user_list.wx_name,date_format(last_login_time,'%Y-%m-%d') as last_login_time FROM `profit_log` LEFT JOIN user_list ON profit_log.gen_uid=user_list.uid  WHERE ( gen_uid=100044 or gen_uid=100045 ) GROUP BY profit_log.gen_uid  [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000140s ]
+
+[ 2019-02-26T21:34:59+08:00 ] 182.149.167.36 /tp3.2/index.php/home/MyPromoters/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001120s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000608s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000329s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100038,100039,100043,100042,100040,100044,100045) and (proxy_lv='3' or proxy_lv='4' or proxy_lv='5') )  [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000549s ]
+SQL: SELECT SUM(profit_log.self_profit+profit_log.pre_profit+profit_log.pre_pre_profit) as sum,user_list.head_pic,user_list.uid,user_list.wx_name,date_format(last_login_time,'%Y-%m-%d') as last_login_time,user_list.examine,(case proxy_lv when 1 then '普通玩家' when 2 then '金豆玩家' when 3 then '初级推广员' when 4 then '中级推广员' else '高级推广员' end) as whether FROM `profit_log` LEFT JOIN user_list ON profit_log.gen_uid=user_list.uid  WHERE ( gen_uid=100038 or gen_uid=100042 or gen_uid=100043 ) GROUP BY profit_log.gen_uid  [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2019-02-26T21:35:01+08:00 ] 182.149.167.36 /tp3.2/index.php/home/CoinPlayer/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000950s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000571s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000385s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100038,100039,100043,100042,100040,100044,100045) and proxy_lv='2' )  [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000566s ]
+SQL: SELECT SUM(profit_log.self_profit+profit_log.pre_profit+profit_log.pre_pre_profit) as sum,user_list.head_pic,user_list.uid,user_list.wx_name,date_format(last_login_time,'%Y-%m-%d') as last_login_time FROM `profit_log` LEFT JOIN user_list ON profit_log.gen_uid=user_list.uid  WHERE ( gen_uid=100044 or gen_uid=100045 ) GROUP BY profit_log.gen_uid  [ RunTime:0.000423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2019-02-26T21:35:02+08:00 ] 182.149.167.36 /tp3.2/index.php/home/PtPlayer/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001065s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000715s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000302s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100038,100039,100043,100042,100040,100044,100045) and (proxy_lv='0' or proxy_lv='1') )  [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000652s ]
+SQL: SELECT SUM(profit_log.self_profit+profit_log.pre_profit+profit_log.pre_pre_profit) as sum,user_list.head_pic,user_list.uid,user_list.wx_name,date_format(last_login_time,'%Y-%m-%d') as last_login_time FROM `profit_log` LEFT JOIN user_list ON profit_log.gen_uid=user_list.uid  WHERE ( gen_uid=100039 or gen_uid=100040 ) GROUP BY profit_log.gen_uid  [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000172s ]
+
+[ 2019-02-26T21:35:04+08:00 ] 182.149.167.36 /tp3.2/index.php/home/MyPromoters/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000935s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000572s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000315s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100038,100039,100043,100042,100040,100044,100045) and (proxy_lv='3' or proxy_lv='4' or proxy_lv='5') )  [ RunTime:0.000550s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000570s ]
+SQL: SELECT SUM(profit_log.self_profit+profit_log.pre_profit+profit_log.pre_pre_profit) as sum,user_list.head_pic,user_list.uid,user_list.wx_name,date_format(last_login_time,'%Y-%m-%d') as last_login_time,user_list.examine,(case proxy_lv when 1 then '普通玩家' when 2 then '金豆玩家' when 3 then '初级推广员' when 4 then '中级推广员' else '高级推广员' end) as whether FROM `profit_log` LEFT JOIN user_list ON profit_log.gen_uid=user_list.uid  WHERE ( gen_uid=100038 or gen_uid=100042 or gen_uid=100043 ) GROUP BY profit_log.gen_uid  [ RunTime:0.000547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000136s ]
+
+[ 2019-02-26T21:35:08+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001131s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000572s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' )  [ RunTime:0.000326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000159s ]
+
+[ 2019-02-26T21:35:08+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/thisMonth/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000884s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000522s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2019-02-1 00:00:00' and time<'2019-03-1 00:00:00' )  [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:35:08+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a3/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000855s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000513s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-11-1 00:00:00' and time<'2018-12-1 00:00:00' )  [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:35:08+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a4/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000833s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000628s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-10-1 00:00:00' and time<'2018-11-1 00:00:00' )  [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:35:08+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000883s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000450s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000472s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-12-1 00:00:00' and time<'2019-01-1 00:00:00' )  [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2019-02-26T21:35:08+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a5/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000884s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000519s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-09-1 00:00:00' and time<'2018-10-1 00:00:00' )  [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000140s ]
+
+[ 2019-02-26T21:35:08+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a6/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000956s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000502s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2018-08-1 00:00:00' and time<'2018-09-1 00:00:00' )  [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:35:08+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Revequery/a1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000903s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000446s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000583s ]
+SQL: SELECT SUM(self_profit+pre_profit+pre_pre_profit) as sum,`time` FROM `profit_log` WHERE ( uid='100005' and time>='2019-01-1 00:00:00' and time<'2019-02-1 00:00:00' )  [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2019-02-26T21:35:14+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ordinaryCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001096s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000599s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='0' or proxy_lv='1') ) LIMIT 1   [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2019-02-26T21:35:14+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ordinaryCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000845s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000503s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='0' or proxy_lv='1') and regisder_time>='2019-02-19 21:35:14' and regisder_time<='2019-02-26 21:35:14' ) LIMIT 1   [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:35:14+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/beansCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000896s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000517s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='2' ) LIMIT 1   [ RunTime:0.000325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2019-02-26T21:35:14+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/beansCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000819s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000471s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='2' and regisder_time>='2019-02-19 21:35:14' and regisder_time<='2019-02-26 21:35:14' ) LIMIT 1   [ RunTime:0.000332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:35:14+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/promotersCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000859s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000474s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='3' or proxy_lv='4'  or proxy_lv='5') ) LIMIT 1   [ RunTime:0.000233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2019-02-26T21:35:14+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/promotersCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000786s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000446s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and (proxy_lv='3' or proxy_lv='4' or proxy_lv='5') and regisder_time>='2019-02-19 21:35:14' and regisder_time<='2019-02-26 21:35:14' ) LIMIT 1   [ RunTime:0.000343s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:35:14+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ownerCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000807s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000545s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='5' ) LIMIT 1   [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2019-02-26T21:35:14+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Deveofflines/ownerCountFew/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000925s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000549s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid='100005' and proxy_lv='5' and regisder_time>='2019-02-19 21:35:14' and regisder_time<='2019-02-26 21:35:14' ) LIMIT 1   [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:35:25+08:00 ] 182.149.167.36 /tp3.2/index.php/home/PtPlayer/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001123s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000616s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000311s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100038,100039,100043,100042,100040,100044,100045) and (proxy_lv='0' or proxy_lv='1') )  [ RunTime:0.000378s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000668s ]
+SQL: SELECT SUM(profit_log.self_profit+profit_log.pre_profit+profit_log.pre_pre_profit) as sum,user_list.head_pic,user_list.uid,user_list.wx_name,date_format(last_login_time,'%Y-%m-%d') as last_login_time FROM `profit_log` LEFT JOIN user_list ON profit_log.gen_uid=user_list.uid  WHERE ( gen_uid=100039 or gen_uid=100040 ) GROUP BY profit_log.gen_uid  [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2019-02-26T21:35:27+08:00 ] 182.149.167.36 /tp3.2/index.php/home/CoinPlayer/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001032s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000609s ]
+SQL: SELECT `next_uids` FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000320s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100038,100039,100043,100042,100040,100044,100045) and proxy_lv='2' )  [ RunTime:0.000368s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000564s ]
+SQL: SELECT SUM(profit_log.self_profit+profit_log.pre_profit+profit_log.pre_pre_profit) as sum,user_list.head_pic,user_list.uid,user_list.wx_name,date_format(last_login_time,'%Y-%m-%d') as last_login_time FROM `profit_log` LEFT JOIN user_list ON profit_log.gen_uid=user_list.uid  WHERE ( gen_uid=100044 or gen_uid=100045 ) GROUP BY profit_log.gen_uid  [ RunTime:0.000486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000136s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Personal/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001082s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Personal/index1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000904s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Personal/index2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000863s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Personal/index3/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000845s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/PayPwd/accountBalance/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000839s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `bank_katti` [ RunTime:0.000453s ]
+SQL: SELECT `balance` FROM `bank_katti` WHERE ( uid='100005' )  [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Personal/bankUsername/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000824s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Personal/bankCard/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000853s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Personal/bankAddress/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000832s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:35:36+08:00 ] 182.149.167.36 /tp3.2/index.php/home/Personal/bind/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000840s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2019-02-26T21:35:40+08:00 ] 182.149.167.36 /tp3.2/index.php/home/PayPwd/accountBalance/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001075s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000616s ]
+SQL: SHOW COLUMNS FROM `bank_katti` [ RunTime:0.000577s ]
+SQL: SELECT `balance` FROM `bank_katti` WHERE ( uid='100005' )  [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000158s ]
+
+[ 2019-02-26T23:25:18+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000392s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000570s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2019-02-26T23:34:46+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000417s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000509s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2019-02-26T23:39:11+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000435s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000506s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2019-02-26T23:42:37+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000431s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000489s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2019-02-26T23:42:40+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000418s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000495s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2019-02-26T23:44:01+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000469s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000480s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2019-02-26T23:46:56+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000410s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000511s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2019-02-26T23:47:48+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000487s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000509s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2019-02-26T23:48:54+08:00 ] 183.3.255.32 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000447s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000479s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+

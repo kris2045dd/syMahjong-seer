@@ -1,0 +1,765 @@
+[ 2018-12-31T02:08:55+08:00 ] 119.84.153.153 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000417s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000504s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100052.png' )  [ RunTime:0.000342s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100052,'http://thirdwx.qlogo.cn/mmopen/vi_32/bF8ick1wyFVRmsp8X9UxpLJmYZquORv6QRnN9tlg4sbwiadJJHiaJKGywv13PlpUrVeleJDiayOfRE5Df04xy8ibfdg/132','100052.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100052.png') [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000224s ]
+
+[ 2018-12-31T02:09:28+08:00 ] 119.84.153.153 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000360s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000480s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100052.png' )  [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2018-12-31T12:22:58+08:00 ] 221.15.165.223 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000401s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000478s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100054.png' )  [ RunTime:0.000332s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100054,'http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTINqdWSyXt7ViaOhsh4f8JfACiaNXibA1F5y6MrYg1FCzH0xk1CiafbxKwjedzGTSicg9V0xRvjJf2IgjA/132','100054.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100054.png') [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2018-12-31T12:23:05+08:00 ] 221.15.165.223 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000661s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000431s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100054.png' )  [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2018-12-31T12:24:52+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000477s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000493s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100053.png' )  [ RunTime:0.000330s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100053,'http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJ0dVKNvvEt47X9LXjeza1Vwu30Bmibx3TefqKymHhYXu6oYjdxP6HhJGTdquwKldgFfvkkkUfxlRA/132','100053.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100053.png') [ RunTime:0.000366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000154s ]
+
+[ 2018-12-31T12:27:20+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000430s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000507s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100053.png' )  [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000182s ]
+
+[ 2018-12-31T12:27:29+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000433s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000506s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100053.png' )  [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2018-12-31T12:27:40+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000454s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000508s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100053.png' )  [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000157s ]
+
+[ 2018-12-31T12:28:43+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000438s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000495s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100053.png' )  [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2018-12-31T12:35:49+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000475s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000512s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100053.png' )  [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2018-12-31T12:35:59+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000410s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000511s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100053.png' )  [ RunTime:0.000352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000191s ]
+
+[ 2018-12-31T12:36:11+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000423s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000519s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100053.png' )  [ RunTime:0.000336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2018-12-31T13:10:42+08:00 ] 123.151.77.72 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000405s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000526s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000183s ]
+
+[ 2018-12-31T13:26:49+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000379s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000527s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2018-12-31T13:27:00+08:00 ] 123.151.77.72 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000430s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000377s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000186s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000259s ]
+
+[ 2018-12-31T13:27:12+08:00 ] 123.151.77.72 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000343s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000465s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2018-12-31T13:27:17+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000402s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000372s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2018-12-31T13:28:23+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000432s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000439s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000161s ]
+
+[ 2018-12-31T13:30:16+08:00 ] 117.136.62.151 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000412s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000496s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100005.png' )  [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000141s ]
+
+[ 2018-12-31T13:34:33+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000436s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000430s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000132s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-12-31T13:34:49+08:00 ] 123.151.77.72 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000417s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000508s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2018-12-31T13:35:24+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000385s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000386s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-12-31T13:35:32+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000425s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000504s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000161s ]
+
+[ 2018-12-31T13:35:35+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000338s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000458s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000142s ]
+
+[ 2018-12-31T13:39:49+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000338s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000463s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000197s ]
+
+[ 2018-12-31T13:39:54+08:00 ] 123.151.77.72 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000335s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000465s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2018-12-31T13:40:02+08:00 ] 123.151.77.72 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000379s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000460s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2018-12-31T13:40:40+08:00 ] 123.151.77.72 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000415s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000459s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2018-12-31T13:40:46+08:00 ] 123.151.77.72 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000446s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000499s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000196s ]
+
+[ 2018-12-31T13:41:03+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000395s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000510s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000157s ]
+
+[ 2018-12-31T13:41:20+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000389s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000485s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000140s ]
+
+[ 2018-12-31T13:41:26+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000203s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000419s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000513s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2018-12-31T13:44:27+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000304s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000426s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2018-12-31T13:44:36+08:00 ] 171.8.74.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000548s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000502s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000142s ]
+
+[ 2018-12-31T13:59:16+08:00 ] 123.5.62.37 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000432s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000507s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100055.png' )  [ RunTime:0.000332s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100055,'http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erCibdv9NWgG7SIOzzbpoDRdUc5ZSyDudQ5JVK7CpMWaEIDCg4zQypiaI16CcYftJFiaXIibRVoZEdn6w/132','100055.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100055.png') [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000210s ]
+
+[ 2018-12-31T14:00:55+08:00 ] 123.5.62.37 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000388s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000466s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100055.png' )  [ RunTime:0.000300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000246s ]
+
+[ 2018-12-31T14:01:00+08:00 ] 123.5.62.37 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000366s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000474s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100055.png' )  [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000141s ]
+
+[ 2018-12-31T14:01:04+08:00 ] 123.5.62.37 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000424s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000531s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100055.png' )  [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2018-12-31T14:01:06+08:00 ] 123.5.62.37 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000379s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000485s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100055.png' )  [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2018-12-31T14:01:10+08:00 ] 123.5.62.37 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined index: head_url /var/www/html/tp3.2/Application/Home/Controller/Wx3Controller.class.php 第 83 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000315s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000544s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100055.png' )  [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2018-12-31T17:39:03+08:00 ] 123.151.77.48 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000428s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000529s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100003.png' )  [ RunTime:0.000308s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100003,'http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIVmibA7IIib4DqlibZ4lX9QkZDibLuQnkoUugjljojCXjI4rGKZiaMRgLUCPgmmZXu4y76UIVq8bN80Ig/132','100003.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100003.png') [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2018-12-31T17:39:11+08:00 ] 123.151.77.48 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000482s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000520s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100003.png' )  [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2018-12-31T17:39:28+08:00 ] 123.151.77.48 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000433s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000500s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100003.png' )  [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2018-12-31T19:19:32+08:00 ] 115.60.43.21 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000384s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000507s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100059.png' )  [ RunTime:0.000329s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100059,'http://thirdwx.qlogo.cn/mmopen/vi_32/Yd8MbIJ8TLzvABvNy75Stz5iaDeeQAezGXtIwZIUftgxPfLjlB3a2iaff5Xx8BUIEA50vtA9wAptE7pPZGPQtIaw/132','100059.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100059.png') [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+

@@ -1,0 +1,72 @@
+[ 2018-10-26T14:29:11+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000618s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000350s ]
+ERR: 数据为:{"uid":100017}
+ERR: uid为:100017
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`) VALUES (100017,'gQGE8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyb05vVmhuOFJkTmgxMDAwMDAwM18AAgTltNJbAwQAAAAA',14) [ RunTime:0.000343s ]
+ERR: json数据为:{"uid":100017,"ticket":"gQGE8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyb05vVmhuOFJkTmgxMDAwMDAwM18AAgTltNJbAwQAAAAA","variable":14}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000177s ]
+
+[ 2018-10-26T14:41:50+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000555s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000426s ]
+ERR: 数据为:{"uid":100403}
+ERR: uid为:100403
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`) VALUES (100403,'gQGx8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAySGJCS2htOFJkTmgxMDAwME0wM2cAAgTct9JbAwQAAAAA',15) [ RunTime:0.000338s ]
+ERR: json数据为:{"uid":100403,"ticket":"gQGx8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAySGJCS2htOFJkTmgxMDAwME0wM2cAAgTct9JbAwQAAAAA","variable":15}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000183s ]
+
+[ 2018-10-26T15:40:06+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000679s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000315s ]
+ERR: 数据为:{"uid":100409}
+ERR: uid为:100409
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`) VALUES (100409,'gQH58TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyc2FCUWdSOFJkTmgxMDAwMDAwM3EAAgSFxdJbAwQAAAAA',16) [ RunTime:0.000350s ]
+ERR: json数据为:{"uid":100409,"ticket":"gQH58TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyc2FCUWdSOFJkTmgxMDAwMDAwM3EAAgSFxdJbAwQAAAAA","variable":16}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000185s ]
+
+[ 2018-10-26T16:08:51+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000683s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000340s ]
+ERR: 数据为:{"uid":100411}
+ERR: uid为:100411
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`) VALUES (100411,'gQEC8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyemZ1LWhaOFJkTmgxMDAwMGcwM0oAAgRBzNJbAwQAAAAA',17) [ RunTime:0.000361s ]
+ERR: json数据为:{"uid":100411,"ticket":"gQEC8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyemZ1LWhaOFJkTmgxMDAwMGcwM0oAAgRBzNJbAwQAAAAA","variable":17}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000195s ]
+

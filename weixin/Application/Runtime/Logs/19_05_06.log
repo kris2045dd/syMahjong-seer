@@ -1,0 +1,17 @@
+[ 2019-05-06T16:21:26+08:00 ] 139.207.78.69 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000619s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000531s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100026.png' )  [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+

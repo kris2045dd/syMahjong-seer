@@ -1,0 +1,286 @@
+[ 2019-01-05T09:52:05+08:00 ] 123.151.77.48 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000461s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000513s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100003.png' )  [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000151s ]
+
+[ 2019-01-05T15:51:11+08:00 ] 119.84.153.172 /tp3.2/home/Wx1/getUserInfoAll?uid=100276&code=021us3qv0wq1jj1Euzpv0l80qv0us3qZ&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 85 行.
+NOTIC: [8] Undefined index: openid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 86 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000167s ]
+
+[ 2019-01-05T15:53:35+08:00 ] 119.84.153.172 /tp3.2/home/Wx1/getUserInfoAll?uid=100276&code=001DorTW09ax53246zTW0ivFTW0DorTF&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 85 行.
+NOTIC: [8] Undefined index: openid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 86 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2019-01-05T15:53:59+08:00 ] 119.84.153.172 /tp3.2/home/Wx1/getUserInfoAll?uid=100276&code=061PvtBE0IX9hl2mI8DE0aCEBE0PvtB4&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 85 行.
+NOTIC: [8] Undefined index: openid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 86 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000167s ]
+
+[ 2019-01-05T15:54:27+08:00 ] 119.84.153.172 /tp3.2/home/Wx1/getUserInfoAll?uid=100276&code=011KjZvw0WYMjb1sNxxw0AN4ww0KjZvU&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 85 行.
+NOTIC: [8] Undefined index: openid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 86 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000180s ]
+
+[ 2019-01-05T16:02:41+08:00 ] 119.84.153.172 /tp3.2/home/Wx1/getUserInfoAll?uid=100276&code=021zhoEV1UOsxY0fnFGV1vLqEV1zhoEu&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 85 行.
+NOTIC: [8] Undefined index: openid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 86 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2019-01-05T16:05:01+08:00 ] 119.84.153.172 /tp3.2/home/Wx1/getUserInfoAll?uid=100276&code=011cV3CO11lkF91ZQSAO1ROdCO1cV3Cc&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 85 行.
+NOTIC: [8] Undefined index: openid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 86 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000182s ]
+
+[ 2019-01-05T16:05:48+08:00 ] 119.84.153.172 /tp3.2/home/Wx1/getUserInfoAll?uid=100276&code=0714fuQb23m4uN065JQb2VueQb24fuQL&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 85 行.
+NOTIC: [8] Undefined index: openid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 86 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2019-01-05T19:25:17+08:00 ] 182.149.167.126 /tp3.2/index.php/home/indexComputer/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.001035s ]
+SQL: SELECT * FROM `user` WHERE ( phone='13200231520' and password='abc123' )  [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000241s ]
+
+[ 2019-01-05T19:25:20+08:00 ] 182.149.167.126 /tp3.2/index.php/home/PayPwd/accountBalance/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000980s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `bank_katti` [ RunTime:0.001361s ]
+SQL: SELECT `balance` FROM `bank_katti` WHERE ( uid='100005' )  [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000149s ]
+
+[ 2019-01-05T19:25:20+08:00 ] 182.149.167.126 /tp3.2/index.php/home/HomeTree/isshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000843s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-01-05T19:25:20+08:00 ] 182.149.167.126 /tp3.2/index.php/home/HomeTree/pretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000806s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000557s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000130s ]
+
+[ 2019-01-05T19:25:20+08:00 ] 182.149.167.126 /tp3.2/index.php/home/HomeTree/pretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000854s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000446s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2019-01-05T19:25:20+08:00 ] 182.149.167.126 /tp3.2/index.php/home/HomeTree/prepretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000835s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000462s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000319s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) ) LIMIT 1   [ RunTime:0.000326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2019-01-05T19:25:20+08:00 ] 182.149.167.126 /tp3.2/index.php/home/HomeTree/prepretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000796s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000420s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000312s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) ) LIMIT 1   [ RunTime:0.000270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2019-01-05T19:25:20+08:00 ] 182.149.167.126 /tp3.2/index.php/home/HomeTree/accumulativeIncome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000863s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000568s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100038 )  [ RunTime:0.000333s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100039 )  [ RunTime:0.000356s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100043 )  [ RunTime:0.000335s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100042 )  [ RunTime:0.000308s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100040 )  [ RunTime:0.000406s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100044 )  [ RunTime:0.000301s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100045 )  [ RunTime:0.000230s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100054,100059,100074) )  [ RunTime:0.000309s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100054 )  [ RunTime:0.000339s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100059 )  [ RunTime:0.000311s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100074 )  [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2019-01-05T19:25:20+08:00 ] 182.149.167.126 /tp3.2/index.php/home/HomeTree/profittotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000831s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000448s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.001433s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid='100005' )  [ RunTime:0.000226s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid in(100038,100039,100043,100042,100040,100044,100045) )  [ RunTime:0.000223s ]
+SQL: SELECT * FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) )  [ RunTime:0.000468s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid in(100054,100059,100074) )  [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2019-01-05T19:25:21+08:00 ] 182.149.167.126 /tp3.2/index.php/home/HomeTree/preList/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000979s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000665s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100038 )  [ RunTime:0.000359s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100039 )  [ RunTime:0.000334s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100043 )  [ RunTime:0.000364s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100042 )  [ RunTime:0.000320s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100040 )  [ RunTime:0.000357s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100044 )  [ RunTime:0.000354s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100045 )  [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+

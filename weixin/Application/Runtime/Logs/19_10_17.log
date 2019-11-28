@@ -1,0 +1,37 @@
+[ 2019-10-17T00:21:10+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+ERR: 数据为:{"uid":100015,"header_url":"http://39.98.241.250/header/Public/upload/header/100015.png"}
+ERR: uid为:100015
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100015.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000579s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100015.png' )  [ RunTime:0.000354s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100015,'http://39.98.241.250/header/Public/upload/header/100015.png','100015.png','http://39.98.241.250/tp3.2/Public/upload/header/100015.png') [ RunTime:0.000292s ]
+ERR: json数据为:{"uid":100015,"url":"http:\/\/39.98.241.250\/code8\/100015.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2019-10-17T17:07:42+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+ERR: 数据为:{"uid":100112,"header_url":"http://39.98.241.250/header/Public/upload/header/100112.png"}
+ERR: uid为:100112
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100112.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000600s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100112.png' )  [ RunTime:0.000413s ]
+ERR: json数据为:{"uid":100112,"url":"http:\/\/39.98.241.250\/code8\/100112.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+

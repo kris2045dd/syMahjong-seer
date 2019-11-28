@@ -1,0 +1,77 @@
+[ 2018-11-01T10:07:04+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000671s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000324s ]
+ERR: 数据为:{"uid":100004}
+ERR: uid为:100004
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`,`time`) VALUES (100004,'gQFh8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyMXBOU2hsOFJkTmgxMDAwME0wN1cAAgR9YNpbAwQAAAAA',7,'2018-11-01 10:07:03') [ RunTime:0.000348s ]
+ERR: json数据为:{"uid":100004,"ticket":"gQFh8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyMXBOU2hsOFJkTmgxMDAwME0wN1cAAgR9YNpbAwQAAAAA","variable":7,"url":"http:\/\/caiyunyigou.com\/tp3.2\/100004.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000187s ]
+
+[ 2018-11-01T10:07:11+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000513s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000378s ]
+ERR: 数据为:{"uid":100004}
+ERR: uid为:100004
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`,`time`) VALUES (100004,'gQFV8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyRWtNUmd3OFJkTmgxMDAwME0wN0UAAgSEYNpbAwQAAAAA',8,'2018-11-01 10:07:10') [ RunTime:0.000350s ]
+ERR: json数据为:{"uid":100004,"ticket":"gQFV8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyRWtNUmd3OFJkTmgxMDAwME0wN0UAAgSEYNpbAwQAAAAA","variable":8,"url":"http:\/\/caiyunyigou.com\/tp3.2\/100004.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000180s ]
+
+[ 2018-11-01T10:18:02+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=a0bbbd737d5712cc1a059ed6c67fe131ceedf553&timestamp=1541038864&nonce=58749511&openid=oCHVx0YoQRD7r6gcxgonZ33qw0qI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: a0bbbd737d5712cc1a059ed6c67fe131ceedf553
+ERR: hashcode: a0bbbd737d5712cc1a059ed6c67fe131ceedf553
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0YoQRD7r6gcxgonZ33qw0qI]]></FromUserName>
+<CreateTime>1541038864</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_8]]></EventKey>
+<Ticket><![CDATA[gQFV8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyRWtNUmd3OFJkTmgxMDAwME0wN0UAAgSEYNpbAwQAAAAA]]></Ticket>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000149s ]
+
+[ 2018-11-01T10:35:54+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=90bb425781c7281f916ac3e53bade044111585fc&timestamp=1541039936&nonce=942759992&openid=oCHVx0YoQRD7r6gcxgonZ33qw0qI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: 90bb425781c7281f916ac3e53bade044111585fc
+ERR: hashcode: 90bb425781c7281f916ac3e53bade044111585fc
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0YoQRD7r6gcxgonZ33qw0qI]]></FromUserName>
+<CreateTime>1541039936</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000149s ]
+

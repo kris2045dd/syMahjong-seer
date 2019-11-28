@@ -1,0 +1,34 @@
+[ 2018-09-03T14:11:13+08:00 ] 222.211.162.199 /tp3.2/index.php/home/HomeTree/accumulativeIncome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001530s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000594s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2018-09-03T14:11:13+08:00 ] 222.211.162.199 /tp3.2/index.php/home/HomeTree/profittotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001480s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000638s ]
+SQL: SHOW COLUMNS FROM `profit_log` [ RunTime:0.000733s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid='100005' )  [ RunTime:0.000314s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid in(100038,100039,100043,100042,100040,100044,100045) )  [ RunTime:0.000288s ]
+SQL: SELECT * FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) )  [ RunTime:0.000558s ]
+SQL: SELECT sum(self_profit+pre_profit+pre_pre_profit) as sum FROM `profit_log` WHERE ( uid in(100054,100059,100074) )  [ RunTime:0.000305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000171s ]
+

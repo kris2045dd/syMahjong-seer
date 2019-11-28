@@ -1,0 +1,1462 @@
+[ 2018-12-21T09:47:43+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=d2e8860fb10e595eba7c185571155350da6242e6&timestamp=1545356919&nonce=1542939589&openid=oCHVx0ewuBxWjcZfLlLAK4D6OpSI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+ERR: signature: d2e8860fb10e595eba7c185571155350da6242e6
+ERR: hashcode: d2e8860fb10e595eba7c185571155350da6242e6
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0ewuBxWjcZfLlLAK4D6OpSI]]></FromUserName>
+<CreateTime>1545356919</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420128358</MenuId>
+</xml>
+
+[ 2018-12-21T10:10:51+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/wx/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: 非法操作:text
+
+[ 2018-12-21T10:11:13+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/wx/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: 非法操作:test
+
+[ 2018-12-21T10:11:59+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/Wx/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: 非法操作:test
+
+[ 2018-12-21T10:12:05+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/Wx/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+ERR: 非法操作:test
+
+[ 2018-12-21T10:14:05+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/Wx/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2018-12-21T10:15:53+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=0151063e41c7ced23de746d501ab734a02f983ca&echostr=3198198994826153247&timestamp=1545358610&nonce=1976695830
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+ERR: signature: 0151063e41c7ced23de746d501ab734a02f983ca
+ERR: hashcode: 0151063e41c7ced23de746d501ab734a02f983ca
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000147s ]
+
+[ 2018-12-21T10:16:53+08:00 ] 101.91.60.11 /tp3.2/index.php/admin/Wx/wxPuMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: signature /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 115 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 116 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 117 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 118 行.
+ERR: signature: 
+ERR: hashcode: b159ae9346b9313f8a4a1433a120358593ce8803
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000147s ]
+
+[ 2018-12-21T10:31:49+08:00 ] 222.211.162.86 /tp3.2/index.php/home/PayPwd/accountBalance/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001239s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000691s ]
+SQL: SHOW COLUMNS FROM `bank_katti` [ RunTime:0.000551s ]
+SQL: SELECT `balance` FROM `bank_katti` WHERE ( uid='100005' )  [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2018-12-21T10:31:49+08:00 ] 222.211.162.86 /tp3.2/index.php/home/HomeTree/isshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000910s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2018-12-21T10:31:49+08:00 ] 222.211.162.86 /tp3.2/index.php/home/HomeTree/pretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000885s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000557s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2018-12-21T10:31:49+08:00 ] 222.211.162.86 /tp3.2/index.php/home/HomeTree/pretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000208s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001050s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000440s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000321s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000149s ]
+
+[ 2018-12-21T10:31:49+08:00 ] 222.211.162.86 /tp3.2/index.php/home/HomeTree/prepretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000208s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001072s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000483s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000260s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) ) LIMIT 1   [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2018-12-21T10:31:49+08:00 ] 222.211.162.86 /tp3.2/index.php/home/HomeTree/prepretotal/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000948s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000428s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid='100005' )  [ RunTime:0.000250s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_list` WHERE ( pre_uid in(100038,100039,100043,100042,100040,100044,100045) ) LIMIT 1   [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000139s ]
+
+[ 2018-12-21T10:31:49+08:00 ] 222.211.162.86 /tp3.2/index.php/home/HomeTree/selfYield
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001078s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='' )  [ RunTime:0.001074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2018-12-21T10:31:49+08:00 ] 222.211.162.86 /tp3.2/index.php/home/HomeTree/accumulativeIncome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.001133s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000525s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100038 )  [ RunTime:0.000325s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100039 )  [ RunTime:0.000313s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100043 )  [ RunTime:0.000304s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100042 )  [ RunTime:0.000297s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100040 )  [ RunTime:0.000269s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100044 )  [ RunTime:0.000357s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100045 )  [ RunTime:0.000370s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid in (100054,100059,100074) )  [ RunTime:0.000370s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100054 )  [ RunTime:0.000362s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100059 )  [ RunTime:0.000357s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100074 )  [ RunTime:0.000342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000140s ]
+
+[ 2018-12-21T10:31:50+08:00 ] 222.211.162.86 /tp3.2/index.php/home/HomeTree/preList/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_list` [ RunTime:0.000979s ]
+SQL: SELECT * FROM `user_list` WHERE ( phone_number='13200231520' )  [ RunTime:0.000574s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100038 )  [ RunTime:0.000354s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100039 )  [ RunTime:0.000337s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100043 )  [ RunTime:0.000343s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100042 )  [ RunTime:0.000349s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100040 )  [ RunTime:0.000393s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100044 )  [ RunTime:0.000356s ]
+SQL: SELECT * FROM `user_list` WHERE ( uid=100045 )  [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000147s ]
+
+[ 2018-12-21T10:59:05+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=3762b0dfd35d1f3f7079ac8451c9210281be1bda&timestamp=1545361172&nonce=1447139782&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 3762b0dfd35d1f3f7079ac8451c9210281be1bda
+ERR: hashcode: 3762b0dfd35d1f3f7079ac8451c9210281be1bda
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545361172</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2018-12-21T10:59:10+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=3762b0dfd35d1f3f7079ac8451c9210281be1bda&timestamp=1545361172&nonce=1447139782&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: 3762b0dfd35d1f3f7079ac8451c9210281be1bda
+ERR: hashcode: 3762b0dfd35d1f3f7079ac8451c9210281be1bda
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545361172</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2018-12-21T10:59:15+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=3762b0dfd35d1f3f7079ac8451c9210281be1bda&timestamp=1545361172&nonce=1447139782&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+ERR: signature: 3762b0dfd35d1f3f7079ac8451c9210281be1bda
+ERR: hashcode: 3762b0dfd35d1f3f7079ac8451c9210281be1bda
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545361172</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2018-12-21T10:59:56+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=8b8672e13c36e5ea46bad8006ca6e80a1a7d561d&timestamp=1545361253&nonce=302022223&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: 8b8672e13c36e5ea46bad8006ca6e80a1a7d561d
+ERR: hashcode: 8b8672e13c36e5ea46bad8006ca6e80a1a7d561d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545361253</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 164 行.
+
+[ 2018-12-21T11:00:32+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=844fe5cadf920c4dde28b7954a135a850a5057f8&timestamp=1545361289&nonce=100387754&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: 844fe5cadf920c4dde28b7954a135a850a5057f8
+ERR: hashcode: 844fe5cadf920c4dde28b7954a135a850a5057f8
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545361289</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+[ 2018-12-21T11:09:38+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/Wx/wxPuMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+NOTIC: [8] Undefined index: signature /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 112 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 114 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 115 行.
+ERR: signature: 
+ERR: hashcode: b159ae9346b9313f8a4a1433a120358593ce8803
+ERR: 不相等
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2018-12-21T11:12:43+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=ea47e190d16982fb92477bd31f6cd6db9149738e&timestamp=1545362020&nonce=251550833&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: ea47e190d16982fb92477bd31f6cd6db9149738e
+ERR: hashcode: ea47e190d16982fb92477bd31f6cd6db9149738e
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545362020</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[Flynn]]></Content>
+<MsgId>6637279336800775590</MsgId>
+</xml>
+ERR: Think\Controller:receiveText方法不存在！
+
+[ 2018-12-21T11:13:01+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=7486900f8c7062e7abb1b2cb0d54ccbe52b70df8&timestamp=1545362038&nonce=19101474&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 7486900f8c7062e7abb1b2cb0d54ccbe52b70df8
+ERR: hashcode: 7486900f8c7062e7abb1b2cb0d54ccbe52b70df8
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545362038</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 164 行.
+
+[ 2018-12-21T11:13:46+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=50a189051ca1d7e8bc64c0d2323724b7e236928d&timestamp=1545362083&nonce=1135668143&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+ERR: signature: 50a189051ca1d7e8bc64c0d2323724b7e236928d
+ERR: hashcode: 50a189051ca1d7e8bc64c0d2323724b7e236928d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545362083</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+[ 2018-12-21T11:15:19+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=b4eef076e8a6741e276bea95c9ac88e7fc2f9a99&echostr=3254127668072635321&timestamp=1545362177&nonce=682896159
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+ERR: signature: b4eef076e8a6741e276bea95c9ac88e7fc2f9a99
+ERR: hashcode: b4eef076e8a6741e276bea95c9ac88e7fc2f9a99
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000147s ]
+
+[ 2018-12-21T11:15:47+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=5b6692c627c772b6f9700d57feab8a15f37f4604&timestamp=1545362204&nonce=1199407653&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+ERR: signature: 5b6692c627c772b6f9700d57feab8a15f37f4604
+ERR: hashcode: 5b6692c627c772b6f9700d57feab8a15f37f4604
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545362204</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到unoid为:
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2018-12-21T11:16:10+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=7a1c47374b98e661b4c8a6c5f8b17e8081ac69b7&timestamp=1545362227&nonce=1711936883&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: 7a1c47374b98e661b4c8a6c5f8b17e8081ac69b7
+ERR: hashcode: 7a1c47374b98e661b4c8a6c5f8b17e8081ac69b7
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545362227</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到unoid为:
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000169s ]
+
+[ 2018-12-21T11:18:32+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=828f2e767bc58414877dcde828904e78dc190896&timestamp=1545362369&nonce=452869031&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: 828f2e767bc58414877dcde828904e78dc190896
+ERR: hashcode: 828f2e767bc58414877dcde828904e78dc190896
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545362369</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到unoid为:
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000169s ]
+
+[ 2018-12-21T11:18:47+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=96c5b76994b49e0752d8d1e40300505c759e1a6f&timestamp=1545362384&nonce=1091437915&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 96c5b76994b49e0752d8d1e40300505c759e1a6f
+ERR: hashcode: 96c5b76994b49e0752d8d1e40300505c759e1a6f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545362384</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到unoid为:
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2018-12-21T11:20:25+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=7c5c611bbb86caa412ce9dc1b545fbb5a932fb2d&timestamp=1545362482&nonce=1380155795&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+ERR: signature: 7c5c611bbb86caa412ce9dc1b545fbb5a932fb2d
+ERR: hashcode: 7c5c611bbb86caa412ce9dc1b545fbb5a932fb2d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545362482</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [EPfkAa04824807]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000167s ]
+
+[ 2018-12-21T11:20:37+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=3f32c41dc760a590afd11535e75129f87d4c5629&timestamp=1545362494&nonce=2089925813&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 3f32c41dc760a590afd11535e75129f87d4c5629
+ERR: hashcode: 3f32c41dc760a590afd11535e75129f87d4c5629
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545362494</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [k8SqFa04953705]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000164s ]
+
+[ 2018-12-21T11:26:05+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/Wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000161s ]
+
+[ 2018-12-21T11:26:23+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/Wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2018-12-21T11:34:34+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=9a92a0984d7b2c348f4e17fe16a7c4d8d8e32e8e&timestamp=1545363331&nonce=84422338&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+ERR: signature: 9a92a0984d7b2c348f4e17fe16a7c4d8d8e32e8e
+ERR: hashcode: 9a92a0984d7b2c348f4e17fe16a7c4d8d8e32e8e
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363331</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [A.OQdA03321529]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2018-12-21T11:34:42+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=972f77f68a1e4a395d3e0122f2a06da903c3b014&timestamp=1545363339&nonce=2087897217&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 972f77f68a1e4a395d3e0122f2a06da903c3b014
+ERR: hashcode: 972f77f68a1e4a395d3e0122f2a06da903c3b014
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363339</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [mXzu7a03394524]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000171s ]
+
+[ 2018-12-21T11:36:07+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=85e4330f513109c5ae2ac2930071a458445752aa&timestamp=1545363424&nonce=1572835884&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 85e4330f513109c5ae2ac2930071a458445752aa
+ERR: hashcode: 85e4330f513109c5ae2ac2930071a458445752aa
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363424</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [2WVUtA04255190]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000164s ]
+
+[ 2018-12-21T11:36:32+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=8da3ec61d108b6c43a7f367d65c88c21adb7828d&timestamp=1545363449&nonce=1676105475&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 8da3ec61d108b6c43a7f367d65c88c21adb7828d
+ERR: hashcode: 8da3ec61d108b6c43a7f367d65c88c21adb7828d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363449</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [y596ka04491560]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2018-12-21T11:39:34+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=6ea3613c533268084847f84b3eaf0d5763daa5a2&timestamp=1545363630&nonce=935588244&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+ERR: signature: 6ea3613c533268084847f84b3eaf0d5763daa5a2
+ERR: hashcode: 6ea3613c533268084847f84b3eaf0d5763daa5a2
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363630</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [IhhjUA06311483]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000178s ]
+
+[ 2018-12-21T11:39:42+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=2be189d0bb2a6ecf986c605d363279a7dc8511d5&timestamp=1545363639&nonce=2004805463&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 2be189d0bb2a6ecf986c605d363279a7dc8511d5
+ERR: hashcode: 2be189d0bb2a6ecf986c605d363279a7dc8511d5
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363639</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [WJawsa06393705]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2018-12-21T11:41:01+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=d30173193d7de985e5607b44eab3859fe54f860d&timestamp=1545363718&nonce=755786629&openid=o2rZm6IDDc8tEs5K7N0LOVfYo4V4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: signature: d30173193d7de985e5607b44eab3859fe54f860d
+ERR: hashcode: d30173193d7de985e5607b44eab3859fe54f860d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6IDDc8tEs5K7N0LOVfYo4V4]]></FromUserName>
+<CreateTime>1545363718</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[后面]]></Content>
+<MsgId>6637286629664601040</MsgId>
+</xml>
+ERR: FromUserName: o2rZm6IDDc8tEs5K7N0LOVfYo4V4
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [Gjlc2a07184807]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000171s ]
+
+[ 2018-12-21T11:42:13+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=eab010517e1042216b4992570edf730a9b7ce0c7&timestamp=1545363790&nonce=238920527&openid=o2rZm6IDDc8tEs5K7N0LOVfYo4V4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: eab010517e1042216b4992570edf730a9b7ce0c7
+ERR: hashcode: eab010517e1042216b4992570edf730a9b7ce0c7
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6IDDc8tEs5K7N0LOVfYo4V4]]></FromUserName>
+<CreateTime>1545363790</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>30.552193</Location_X>
+<Location_Y>104.065781</Location_Y>
+<Scale>16</Scale>
+<Label><![CDATA[蜀都中心一期(武侯区天府二街138号)]]></Label>
+<MsgId>6637286938902246353</MsgId>
+</xml>
+ERR: FromUserName: o2rZm6IDDc8tEs5K7N0LOVfYo4V4
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [6bbWuA07915658]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2018-12-21T11:42:39+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=418974ef4aad3bd0998e588750d6740244729822&timestamp=1545363816&nonce=576065107&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 418974ef4aad3bd0998e588750d6740244729822
+ERR: hashcode: 418974ef4aad3bd0998e588750d6740244729822
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363816</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [lWf2la08161519]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000159s ]
+
+[ 2018-12-21T11:43:16+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=1c35d8ddf8745e18a5ad33b295fbb582890889bd&timestamp=1545363853&nonce=1957119453&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 1c35d8ddf8745e18a5ad33b295fbb582890889bd
+ERR: hashcode: 1c35d8ddf8745e18a5ad33b295fbb582890889bd
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363853</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"errcode":40003,"errmsg":"invalid openid hint: [b7QOwa08531519]"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000178s ]
+
+[ 2018-12-21T11:44:46+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=f74cce29c341e1400dc71fe8b0f3670b6c56b8a1&timestamp=1545363942&nonce=233674093&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: f74cce29c341e1400dc71fe8b0f3670b6c56b8a1
+ERR: hashcode: f74cce29c341e1400dc71fe8b0f3670b6c56b8a1
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363942</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到info为:{"subscribe":0,"openid":"o2rZm6G17g2FR7pI13A9Ip6980jk","tagid_list":[]}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2018-12-21T11:45:00+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=048cd0c07344d499d04a19debcc6bb2fcd4c8fb9&timestamp=1545363957&nonce=635696350&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 048cd0c07344d499d04a19debcc6bb2fcd4c8fb9
+ERR: hashcode: 048cd0c07344d499d04a19debcc6bb2fcd4c8fb9
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545363957</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到info为:{"subscribe":1,"openid":"o2rZm6G17g2FR7pI13A9Ip6980jk","nickname":"白鳥の思考に","sex":1,"language":"zh_CN","city":"Anchorage Municipality","province":"Alaska","country":"US","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/Q3auHgzwzM6sHjuCupsIJeWuzvicTU98PsqT7XdtSKx5CBnMXc8j2orfTbrXqrlzAlMJanYdW2IwvJL19WrCgUzQBBPZ4At77Sg9ZnZT1f2U\/132","subscribe_time":1545363957,"unionid":"oyGzF0-YvEAWxUCcfzIRLOaxPimk","remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2018-12-21T11:48:59+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=08d2f0cad9a827f87fbe7e69ad705de54abd6177&timestamp=1545364196&nonce=347302440&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 08d2f0cad9a827f87fbe7e69ad705de54abd6177
+ERR: hashcode: 08d2f0cad9a827f87fbe7e69ad705de54abd6177
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545364196</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000172s ]
+
+[ 2018-12-21T11:49:32+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=cefd58fd9fba129225f6b73ef583219fc8011708&timestamp=1545364229&nonce=2109325109&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: cefd58fd9fba129225f6b73ef583219fc8011708
+ERR: hashcode: cefd58fd9fba129225f6b73ef583219fc8011708
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545364229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000172s ]
+
+[ 2018-12-21T11:50:20+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=5c1d3942d1938ce8eea0c6b1dada2779ecbb450b&timestamp=1545364277&nonce=1979578632&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 5c1d3942d1938ce8eea0c6b1dada2779ecbb450b
+ERR: hashcode: 5c1d3942d1938ce8eea0c6b1dada2779ecbb450b
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545364277</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+
+[ 2018-12-21T11:50:33+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=f049fb3fb258223922683c6658f508ba58c61c0d&timestamp=1545364290&nonce=1689623308&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: f049fb3fb258223922683c6658f508ba58c61c0d
+ERR: hashcode: f049fb3fb258223922683c6658f508ba58c61c0d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545364290</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+
+[ 2018-12-21T11:57:39+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=5a7fcaa3e1407dab52323cf73e4d20bd20a92072&timestamp=1545364686&nonce=1543969500&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: signature: 5a7fcaa3e1407dab52323cf73e4d20bd20a92072
+ERR: hashcode: 5a7fcaa3e1407dab52323cf73e4d20bd20a92072
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545364686</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 164 行.
+ERR: 返回结果是:
+
+[ 2018-12-21T11:57:44+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=5a7fcaa3e1407dab52323cf73e4d20bd20a92072&timestamp=1545364686&nonce=1543969500&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+ERR: signature: 5a7fcaa3e1407dab52323cf73e4d20bd20a92072
+ERR: hashcode: 5a7fcaa3e1407dab52323cf73e4d20bd20a92072
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545364686</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 164 行.
+ERR: 返回结果是:
+
+[ 2018-12-21T11:57:49+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=5a7fcaa3e1407dab52323cf73e4d20bd20a92072&timestamp=1545364686&nonce=1543969500&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 5a7fcaa3e1407dab52323cf73e4d20bd20a92072
+ERR: hashcode: 5a7fcaa3e1407dab52323cf73e4d20bd20a92072
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545364686</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 164 行.
+ERR: 返回结果是:
+
+[ 2018-12-21T11:59:07+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd&timestamp=1545364774&nonce=1892192725&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd
+ERR: hashcode: 2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545364774</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2018-12-21T11:59:07+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=abd72b3bf7b842ff3f6b50ec2c486bd67384045a&timestamp=1545364804&nonce=1276740925&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+ERR: signature: abd72b3bf7b842ff3f6b50ec2c486bd67384045a
+ERR: hashcode: abd72b3bf7b842ff3f6b50ec2c486bd67384045a
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545364804</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+
+[ 2018-12-21T11:59:12+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd&timestamp=1545364774&nonce=1892192725&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: signature: 2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd
+ERR: hashcode: 2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545364774</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2018-12-21T11:59:17+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd&timestamp=1545364774&nonce=1892192725&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd
+ERR: hashcode: 2c4feb7ce68e15e1f42416a262f4df5bc9b32cdd
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545364774</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2018-12-21T11:59:23+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=b0ce1a075b8c6759e5eff2d5445e3adc2b343a26&timestamp=1545364820&nonce=1676326278&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: b0ce1a075b8c6759e5eff2d5445e3adc2b343a26
+ERR: hashcode: b0ce1a075b8c6759e5eff2d5445e3adc2b343a26
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545364820</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+
+[ 2018-12-21T12:04:54+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/Power/createMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2018-12-21T12:06:11+08:00 ] 222.211.162.86 /tp3.2/index.php/admin/Power/createMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2018-12-21T12:06:26+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=e16fc7e851469184223b398d0d8a7cb1af8cef96&timestamp=1545365243&nonce=1638902222&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: e16fc7e851469184223b398d0d8a7cb1af8cef96
+ERR: hashcode: e16fc7e851469184223b398d0d8a7cb1af8cef96
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545365243</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+
+[ 2018-12-21T12:06:53+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=bff77810b3c4899e9ea3e06f0f6b93a4b8b7be53&timestamp=1545365270&nonce=922689186&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+ERR: signature: bff77810b3c4899e9ea3e06f0f6b93a4b8b7be53
+ERR: hashcode: bff77810b3c4899e9ea3e06f0f6b93a4b8b7be53
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545365270</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+
+[ 2018-12-21T13:52:23+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=ac83a47436bf9845a70f47228e4ac899c318d03d&timestamp=1545371600&nonce=789168300&openid=o2rZm6G3ouSLuXvozMY4Cq8PyIRI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: signature: ac83a47436bf9845a70f47228e4ac899c318d03d
+ERR: hashcode: ac83a47436bf9845a70f47228e4ac899c318d03d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G3ouSLuXvozMY4Cq8PyIRI]]></FromUserName>
+<CreateTime>1545371600</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G3ouSLuXvozMY4Cq8PyIRI
+ERR: 得到getUnionId为:oyGzF09pxnBWg1q4A-L61C_hfq9w
+
+[ 2018-12-21T13:52:26+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=c37c9d808d34b52575d9513f0fc0d9e17d5d4082&timestamp=1545371603&nonce=1615646769&openid=o2rZm6G3ouSLuXvozMY4Cq8PyIRI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+ERR: signature: c37c9d808d34b52575d9513f0fc0d9e17d5d4082
+ERR: hashcode: c37c9d808d34b52575d9513f0fc0d9e17d5d4082
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G3ouSLuXvozMY4Cq8PyIRI]]></FromUserName>
+<CreateTime>1545371603</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6G3ouSLuXvozMY4Cq8PyIRI
+ERR: 得到getUnionId为:oyGzF09pxnBWg1q4A-L61C_hfq9w
+
+[ 2018-12-21T15:14:15+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=674b01cd8c6c524bec275e0f90c034dcdb825e13&timestamp=1545376512&nonce=967608746&openid=o2rZm6PMNo-a7axU3udL6kXCzBLY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 674b01cd8c6c524bec275e0f90c034dcdb825e13
+ERR: hashcode: 674b01cd8c6c524bec275e0f90c034dcdb825e13
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6PMNo-a7axU3udL6kXCzBLY]]></FromUserName>
+<CreateTime>1545376512</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6PMNo-a7axU3udL6kXCzBLY
+ERR: 得到getUnionId为:oyGzF0wLqzH320uDpXOhx9EfVpsg
+
+[ 2018-12-21T15:14:21+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=df605157fec9568b9d9027384d8d22b66eb2e472&timestamp=1545376518&nonce=219069920&openid=o2rZm6PMNo-a7axU3udL6kXCzBLY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: df605157fec9568b9d9027384d8d22b66eb2e472
+ERR: hashcode: df605157fec9568b9d9027384d8d22b66eb2e472
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6PMNo-a7axU3udL6kXCzBLY]]></FromUserName>
+<CreateTime>1545376518</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6PMNo-a7axU3udL6kXCzBLY
+ERR: 得到getUnionId为:oyGzF0wLqzH320uDpXOhx9EfVpsg
+
+[ 2018-12-21T15:16:30+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=f2593964c693e3732204b1fc889463531e992903&timestamp=1545376647&nonce=1399176616&openid=o2rZm6IDDc8tEs5K7N0LOVfYo4V4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: f2593964c693e3732204b1fc889463531e992903
+ERR: hashcode: f2593964c693e3732204b1fc889463531e992903
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6IDDc8tEs5K7N0LOVfYo4V4]]></FromUserName>
+<CreateTime>1545376647</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6IDDc8tEs5K7N0LOVfYo4V4
+ERR: 得到getUnionId为:oyGzF06Onqwlpuj-1BbiC7HXsKFI
+
+[ 2018-12-21T16:51:16+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=dfb0ab7f04f6ad698642b9eea616cc6fd64c53c6&timestamp=1545382333&nonce=2055390746&openid=o2rZm6JgOxJRrLnn-jTpzE8LzicM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: dfb0ab7f04f6ad698642b9eea616cc6fd64c53c6
+ERR: hashcode: dfb0ab7f04f6ad698642b9eea616cc6fd64c53c6
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6JgOxJRrLnn-jTpzE8LzicM]]></FromUserName>
+<CreateTime>1545382333</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6JgOxJRrLnn-jTpzE8LzicM
+ERR: 得到getUnionId为:oyGzF07u4HmgTAV4opo1DkabyHx8
+
+[ 2018-12-21T16:51:24+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=8391e3ac54d741e217c00caa226085704d78a79b&timestamp=1545382341&nonce=1219587403&openid=o2rZm6JgOxJRrLnn-jTpzE8LzicM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 8391e3ac54d741e217c00caa226085704d78a79b
+ERR: hashcode: 8391e3ac54d741e217c00caa226085704d78a79b
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6JgOxJRrLnn-jTpzE8LzicM]]></FromUserName>
+<CreateTime>1545382341</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[nj]]></Content>
+<MsgId>6637366614840554455</MsgId>
+</xml>
+ERR: FromUserName: o2rZm6JgOxJRrLnn-jTpzE8LzicM
+ERR: 得到getUnionId为:oyGzF07u4HmgTAV4opo1DkabyHx8
+ERR: Think\Controller:receiveText方法不存在！
+
+[ 2018-12-21T16:51:32+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=88f20db0396835c72632e1b615dcfb4cb13347cd&timestamp=1545382349&nonce=538406970&openid=o2rZm6JgOxJRrLnn-jTpzE8LzicM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: signature: 88f20db0396835c72632e1b615dcfb4cb13347cd
+ERR: hashcode: 88f20db0396835c72632e1b615dcfb4cb13347cd
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6JgOxJRrLnn-jTpzE8LzicM]]></FromUserName>
+<CreateTime>1545382349</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6JgOxJRrLnn-jTpzE8LzicM
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+
+[ 2018-12-21T16:51:44+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=e9fe6b8bc740cff4949876c8d13e1d06e0d6d4b8&timestamp=1545382361&nonce=1162191569&openid=o2rZm6JgOxJRrLnn-jTpzE8LzicM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: e9fe6b8bc740cff4949876c8d13e1d06e0d6d4b8
+ERR: hashcode: e9fe6b8bc740cff4949876c8d13e1d06e0d6d4b8
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6JgOxJRrLnn-jTpzE8LzicM]]></FromUserName>
+<CreateTime>1545382361</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6JgOxJRrLnn-jTpzE8LzicM
+ERR: 得到getUnionId为:oyGzF07u4HmgTAV4opo1DkabyHx8
+
+[ 2018-12-21T17:00:26+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=8032528484ec853dcb857b84f4a1db5bc338d3b7&timestamp=1545382884&nonce=1315544609&openid=o2rZm6JgOxJRrLnn-jTpzE8LzicM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 8032528484ec853dcb857b84f4a1db5bc338d3b7
+ERR: hashcode: 8032528484ec853dcb857b84f4a1db5bc338d3b7
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6JgOxJRrLnn-jTpzE8LzicM]]></FromUserName>
+<CreateTime>1545382884</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6JgOxJRrLnn-jTpzE8LzicM
+ERR: 得到getUnionId为:oyGzF07u4HmgTAV4opo1DkabyHx8
+
+[ 2018-12-21T17:06:43+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=5e9f4a048381a897a0516ad4cb07db6f5f04dd6c&timestamp=1545383260&nonce=1164545575&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: signature: 5e9f4a048381a897a0516ad4cb07db6f5f04dd6c
+ERR: hashcode: 5e9f4a048381a897a0516ad4cb07db6f5f04dd6c
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545383260</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+
+[ 2018-12-21T17:07:09+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=290dff141c6b03ec0a9dc1603bec724a25059834&timestamp=1545383286&nonce=205857767&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+ERR: signature: 290dff141c6b03ec0a9dc1603bec724a25059834
+ERR: hashcode: 290dff141c6b03ec0a9dc1603bec724a25059834
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545383286</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+
+[ 2018-12-21T17:12:25+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=7dc45eea5451f7dc6b4a93fa08e7ecc6fcf92ffd&timestamp=1545383602&nonce=1028065317&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 7dc45eea5451f7dc6b4a93fa08e7ecc6fcf92ffd
+ERR: hashcode: 7dc45eea5451f7dc6b4a93fa08e7ecc6fcf92ffd
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545383602</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2018-12-21T17:12:41+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=510d1158cffc35cccf8eacdf9637a08749ed495a&timestamp=1545383618&nonce=661168127&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 510d1158cffc35cccf8eacdf9637a08749ed495a
+ERR: hashcode: 510d1158cffc35cccf8eacdf9637a08749ed495a
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545383618</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+ERR: 得到nickname微信名称为:白鳥の思考に
+
+[ 2018-12-21T17:14:38+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=ed30186178295e797c60b29699a72c2adcfa2a8b&timestamp=1545383735&nonce=1317536152&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+ERR: signature: ed30186178295e797c60b29699a72c2adcfa2a8b
+ERR: hashcode: ed30186178295e797c60b29699a72c2adcfa2a8b
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545383735</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2018-12-21T17:15:00+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=2c5dfd725d6515ed1c49d5e171ddd8f9043dba5a&timestamp=1545383757&nonce=685005590&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: 2c5dfd725d6515ed1c49d5e171ddd8f9043dba5a
+ERR: hashcode: 2c5dfd725d6515ed1c49d5e171ddd8f9043dba5a
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545383757</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+ERR: 得到nickname微信名称为:白鳥の思考に
+

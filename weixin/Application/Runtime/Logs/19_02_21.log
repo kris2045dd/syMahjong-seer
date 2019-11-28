@@ -1,0 +1,22 @@
+[ 2019-02-21T20:31:47+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=3177fe32f358718ab9d9218c0e45deff40402459&timestamp=1550752381&nonce=1377684064&openid=o2rZm6FaAqW2heYK_AnuAM4vDkyA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000164s ]
+ERR: signature: 3177fe32f358718ab9d9218c0e45deff40402459
+ERR: hashcode: 3177fe32f358718ab9d9218c0e45deff40402459
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6FaAqW2heYK_AnuAM4vDkyA]]></FromUserName>
+<CreateTime>1550752381</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6FaAqW2heYK_AnuAM4vDkyA
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+

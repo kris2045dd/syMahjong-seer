@@ -1,0 +1,54 @@
+[ 2019-03-25T15:00:44+08:00 ] 223.166.222.11 /tp3.2/index.php/home/wx/wxPuMsg?signature=f74135e4d4e5115703dfaf8225a8f68682d1e882&timestamp=1553497328&nonce=1989727210&openid=oCHVx0d8_X63-QIwO6TB_00cIQl4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+ERR: signature: f74135e4d4e5115703dfaf8225a8f68682d1e882
+ERR: hashcode: f74135e4d4e5115703dfaf8225a8f68682d1e882
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0d8_X63-QIwO6TB_00cIQl4]]></FromUserName>
+<CreateTime>1553497318</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2019-03-25T15:00:49+08:00 ] 223.166.222.11 /tp3.2/index.php/home/wx/wxPuMsg?signature=f74135e4d4e5115703dfaf8225a8f68682d1e882&timestamp=1553497328&nonce=1989727210&openid=oCHVx0d8_X63-QIwO6TB_00cIQl4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+ERR: signature: f74135e4d4e5115703dfaf8225a8f68682d1e882
+ERR: hashcode: f74135e4d4e5115703dfaf8225a8f68682d1e882
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0d8_X63-QIwO6TB_00cIQl4]]></FromUserName>
+<CreateTime>1553497318</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2019-03-25T15:00:54+08:00 ] 223.166.222.11 /tp3.2/index.php/home/wx/wxPuMsg?signature=f74135e4d4e5115703dfaf8225a8f68682d1e882&timestamp=1553497328&nonce=1989727210&openid=oCHVx0d8_X63-QIwO6TB_00cIQl4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+ERR: signature: f74135e4d4e5115703dfaf8225a8f68682d1e882
+ERR: hashcode: f74135e4d4e5115703dfaf8225a8f68682d1e882
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0d8_X63-QIwO6TB_00cIQl4]]></FromUserName>
+<CreateTime>1553497318</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+

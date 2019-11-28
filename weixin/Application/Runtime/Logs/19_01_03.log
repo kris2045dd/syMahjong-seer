@@ -1,0 +1,51 @@
+[ 2019-01-03T10:01:39+08:00 ] 222.211.163.85 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000473s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000509s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100039.png' )  [ RunTime:0.000318s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100039,'http://thirdwx.qlogo.cn/mmopen/vi_32/xQiaQib7kn48XY7uiazvtrjyanFdlBYPeu6XMO5XuwCPqBzt6PcNTbFYtszMGicu6GFbCQrIVoibfyNXP9ukVMGmMpA/132','100039.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100039.png') [ RunTime:0.000366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2019-01-03T11:42:55+08:00 ] 123.151.77.70 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000427s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000476s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100037.png' )  [ RunTime:0.000340s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100037,'http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epUBQibdMCca38R15kGqzICGibZlYiaz1P8rBnEFzbCS1C1ZeYAeS4bRPHGojIxdmSUEUoakib7VCsvKQ/132','100037.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100037.png') [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000156s ]
+
+[ 2019-01-03T13:42:17+08:00 ] 119.84.153.208 /tp3.2/home/Wx1/getUserInfoAll?code=0712W27F0oQbmc2qFu6F0VKV6F02W27h&state=100001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined index: uid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 74 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 85 行.
+NOTIC: [8] Undefined index: openid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 86 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/Wx1Controller.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+

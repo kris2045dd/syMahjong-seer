@@ -1,0 +1,30 @@
+[ 2019-07-12T17:26:41+08:00 ] 223.166.222.104 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=654389c8da7018f134850272e98ab60114c10c1b&echostr=2536845044224742111&timestamp=1562923601&nonce=2089096931
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+ERR: signature: 654389c8da7018f134850272e98ab60114c10c1b
+ERR: hashcode: 654389c8da7018f134850272e98ab60114c10c1b
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2019-07-12T17:35:18+08:00 ] 61.129.6.159 /tp3.2/index.php/admin/Wx/wxPuMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+NOTIC: [8] Undefined index: signature /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 113 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 115 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 116 行.
+ERR: signature: 
+ERR: hashcode: b159ae9346b9313f8a4a1433a120358593ce8803
+ERR: 不相等
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+

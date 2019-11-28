@@ -1,0 +1,315 @@
+[ 2019-04-27T08:35:36+08:00 ] 140.207.54.78 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=1bd33be06569546520ab1620d7896edde6b245be&timestamp=1556325493&nonce=910660485&openid=o2rZm6O4te1_SoPdko85NpCxbL2U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+ERR: signature: 1bd33be06569546520ab1620d7896edde6b245be
+ERR: hashcode: 1bd33be06569546520ab1620d7896edde6b245be
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6O4te1_SoPdko85NpCxbL2U]]></FromUserName>
+<CreateTime>1556325493</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6O4te1_SoPdko85NpCxbL2U
+ERR: 得到getUnionId为:oyGzF06Dxih3O0Sw_rUywxog7Ig8
+ERR: 得到nickname微信名称为:江河湖海
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-27T08:57:24+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=60d02d889a99a8de0578494109431d81913dc06b&timestamp=1556326799&nonce=167842876&openid=o2rZm6I0Ho2De9SDG3_zQvjv5dgg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+ERR: signature: 60d02d889a99a8de0578494109431d81913dc06b
+ERR: hashcode: 60d02d889a99a8de0578494109431d81913dc06b
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6I0Ho2De9SDG3_zQvjv5dgg]]></FromUserName>
+<CreateTime>1556326799</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6I0Ho2De9SDG3_zQvjv5dgg
+ERR: 得到getUnionId为:oyGzF0x8TXvg8M2U-bQwXERNayjQ
+ERR: 得到nickname微信名称为:牛钟41319
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-27T09:01:49+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=fc30bbd2169e12b31090d7f29066efc362100a50&timestamp=1556327066&nonce=1431351068&openid=o2rZm6Karm18OWjJ1Ev7ho4jyigI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+ERR: signature: fc30bbd2169e12b31090d7f29066efc362100a50
+ERR: hashcode: fc30bbd2169e12b31090d7f29066efc362100a50
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6Karm18OWjJ1Ev7ho4jyigI]]></FromUserName>
+<CreateTime>1556327066</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6Karm18OWjJ1Ev7ho4jyigI
+ERR: 得到getUnionId为:oyGzF0xZQbrIAbnCa0tS8yJDWKy0
+ERR: 得到nickname微信名称为:李小锋18795286613
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-27T09:02:52+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=00bd9a179d9912ecfc6c0c15c1213bfeff429ac6&timestamp=1556327129&nonce=1974911403&openid=o2rZm6OscNsqe1qlPbj6_Vnhkj-w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+ERR: signature: 00bd9a179d9912ecfc6c0c15c1213bfeff429ac6
+ERR: hashcode: 00bd9a179d9912ecfc6c0c15c1213bfeff429ac6
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6OscNsqe1qlPbj6_Vnhkj-w]]></FromUserName>
+<CreateTime>1556327129</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6OscNsqe1qlPbj6_Vnhkj-w
+ERR: 得到getUnionId为:oyGzF0yqLj95aqUpxe9UK8odToSI
+ERR: 得到nickname微信名称为:郭文兴
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-27T09:02:56+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=08458474008b914b9bc56ce07f3836e4cf498664&timestamp=1556327133&nonce=1057738204&openid=o2rZm6OscNsqe1qlPbj6_Vnhkj-w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+ERR: signature: 08458474008b914b9bc56ce07f3836e4cf498664
+ERR: hashcode: 08458474008b914b9bc56ce07f3836e4cf498664
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6OscNsqe1qlPbj6_Vnhkj-w]]></FromUserName>
+<CreateTime>1556327133</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6OscNsqe1qlPbj6_Vnhkj-w
+ERR: 得到getUnionId为:oyGzF0yqLj95aqUpxe9UK8odToSI
+ERR: 得到nickname微信名称为:郭文兴
+
+[ 2019-04-27T09:03:11+08:00 ] 140.207.54.77 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=c3ba745740e28d99cac5711a9ec039908eebd1f5&timestamp=1556327148&nonce=286278959&openid=o2rZm6HMYPuyPtd7NHD_sE9GGCgk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+ERR: signature: c3ba745740e28d99cac5711a9ec039908eebd1f5
+ERR: hashcode: c3ba745740e28d99cac5711a9ec039908eebd1f5
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6HMYPuyPtd7NHD_sE9GGCgk]]></FromUserName>
+<CreateTime>1556327148</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6HMYPuyPtd7NHD_sE9GGCgk
+ERR: 得到getUnionId为:oyGzF01OpCGG_TdNXSF_vbC4waEI
+ERR: 得到nickname微信名称为:大伟先生🌴
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-27T09:03:29+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=932dae55679702ff80d389a7580ebf277c73bfe1&timestamp=1556327165&nonce=903482035&openid=o2rZm6OscNsqe1qlPbj6_Vnhkj-w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+ERR: signature: 932dae55679702ff80d389a7580ebf277c73bfe1
+ERR: hashcode: 932dae55679702ff80d389a7580ebf277c73bfe1
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6OscNsqe1qlPbj6_Vnhkj-w]]></FromUserName>
+<CreateTime>1556327165</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6OscNsqe1qlPbj6_Vnhkj-w
+ERR: 得到getUnionId为:oyGzF0yqLj95aqUpxe9UK8odToSI
+ERR: 得到nickname微信名称为:郭文兴
+
+[ 2019-04-27T09:03:59+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=033702f5365b2fea76096fc3cbcd86933f51258f&timestamp=1556327196&nonce=2077488958&openid=o2rZm6OscNsqe1qlPbj6_Vnhkj-w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+ERR: signature: 033702f5365b2fea76096fc3cbcd86933f51258f
+ERR: hashcode: 033702f5365b2fea76096fc3cbcd86933f51258f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6OscNsqe1qlPbj6_Vnhkj-w]]></FromUserName>
+<CreateTime>1556327196</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6OscNsqe1qlPbj6_Vnhkj-w
+ERR: 得到getUnionId为:oyGzF0yqLj95aqUpxe9UK8odToSI
+ERR: 得到nickname微信名称为:郭文兴
+
+[ 2019-04-27T09:05:39+08:00 ] 140.207.54.77 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=866c0f66c3e5170f9fb178a660af2c42ed6d2dcb&timestamp=1556327296&nonce=1170615222&openid=o2rZm6O4te1_SoPdko85NpCxbL2U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+ERR: signature: 866c0f66c3e5170f9fb178a660af2c42ed6d2dcb
+ERR: hashcode: 866c0f66c3e5170f9fb178a660af2c42ed6d2dcb
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6O4te1_SoPdko85NpCxbL2U]]></FromUserName>
+<CreateTime>1556327296</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6O4te1_SoPdko85NpCxbL2U
+ERR: 得到getUnionId为:oyGzF06Dxih3O0Sw_rUywxog7Ig8
+ERR: 得到nickname微信名称为:江河湖海
+
+[ 2019-04-27T09:06:18+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=320aeb752713f4fa2b02125c997e55332a208f1d&timestamp=1556327335&nonce=166233141&openid=o2rZm6J1hxw8UzbM-_VuKxefgjPE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+ERR: signature: 320aeb752713f4fa2b02125c997e55332a208f1d
+ERR: hashcode: 320aeb752713f4fa2b02125c997e55332a208f1d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6J1hxw8UzbM-_VuKxefgjPE]]></FromUserName>
+<CreateTime>1556327335</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6J1hxw8UzbM-_VuKxefgjPE
+ERR: 得到getUnionId为:oyGzF0wxcVojg46aKSibcRj9jVRA
+ERR: 得到nickname微信名称为:喜洋洋
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-27T09:06:24+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=f577528f0415bfb1bb5d8a40d790f0de9328e55e&timestamp=1556327341&nonce=1422784719&openid=o2rZm6J1hxw8UzbM-_VuKxefgjPE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+ERR: signature: f577528f0415bfb1bb5d8a40d790f0de9328e55e
+ERR: hashcode: f577528f0415bfb1bb5d8a40d790f0de9328e55e
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6J1hxw8UzbM-_VuKxefgjPE]]></FromUserName>
+<CreateTime>1556327341</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6J1hxw8UzbM-_VuKxefgjPE
+ERR: 得到getUnionId为:oyGzF0wxcVojg46aKSibcRj9jVRA
+ERR: 得到nickname微信名称为:喜洋洋
+
+[ 2019-04-27T09:11:51+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=2cfbd0d6b1bc0269680093832632a3970c0d9a69&timestamp=1556327668&nonce=163506510&openid=o2rZm6J1hxw8UzbM-_VuKxefgjPE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+ERR: signature: 2cfbd0d6b1bc0269680093832632a3970c0d9a69
+ERR: hashcode: 2cfbd0d6b1bc0269680093832632a3970c0d9a69
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6J1hxw8UzbM-_VuKxefgjPE]]></FromUserName>
+<CreateTime>1556327668</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6J1hxw8UzbM-_VuKxefgjPE
+ERR: 得到getUnionId为:oyGzF0wxcVojg46aKSibcRj9jVRA
+ERR: 得到nickname微信名称为:喜洋洋
+
+[ 2019-04-27T10:33:12+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=1aef4a1331ea7ced52e31f0bd60a7a1db5c6e304&timestamp=1556332549&nonce=1769031204&openid=o2rZm6F1r5Bhvnv1E1hJzbq7m5GY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+ERR: signature: 1aef4a1331ea7ced52e31f0bd60a7a1db5c6e304
+ERR: hashcode: 1aef4a1331ea7ced52e31f0bd60a7a1db5c6e304
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6F1r5Bhvnv1E1hJzbq7m5GY]]></FromUserName>
+<CreateTime>1556332549</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6F1r5Bhvnv1E1hJzbq7m5GY
+ERR: 得到getUnionId为:oyGzF06lJItK_tdSNlwdsNYZuBCE
+ERR: 得到nickname微信名称为:惜緣
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-27T16:04:18+08:00 ] 140.207.54.77 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=9ef5d0473351ac465b60af270e65421406a9a82f&timestamp=1556352415&nonce=1036952110&openid=o2rZm6NjD0fGQvf3hA2BbpbI6QZE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+ERR: signature: 9ef5d0473351ac465b60af270e65421406a9a82f
+ERR: hashcode: 9ef5d0473351ac465b60af270e65421406a9a82f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6NjD0fGQvf3hA2BbpbI6QZE]]></FromUserName>
+<CreateTime>1556352415</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6NjD0fGQvf3hA2BbpbI6QZE
+ERR: 得到getUnionId为:oyGzF06L29zZj8BYIF6kH594h10w
+ERR: 得到nickname微信名称为:青春无悔
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-27T22:09:59+08:00 ] 140.207.54.78 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=d0b26960c8862f9a67f32c7dddf2dd0e1fb2e1a3&timestamp=1556374356&nonce=192008848&openid=o2rZm6IguY8YtYa3V-IZ4D7V8bCc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+ERR: signature: d0b26960c8862f9a67f32c7dddf2dd0e1fb2e1a3
+ERR: hashcode: d0b26960c8862f9a67f32c7dddf2dd0e1fb2e1a3
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6IguY8YtYa3V-IZ4D7V8bCc]]></FromUserName>
+<CreateTime>1556374356</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6IguY8YtYa3V-IZ4D7V8bCc
+ERR: 得到getUnionId为:oyGzF0zoMbQXAJQqGx7m_PFZW4gg
+ERR: 得到nickname微信名称为:广源
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+

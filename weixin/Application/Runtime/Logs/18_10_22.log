@@ -1,0 +1,821 @@
+[ 2018-10-22T14:29:32+08:00 ] 171.88.42.93 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000913s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000356s ]
+NOTIC: [8] Undefined index: enStr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 278 行.
+ERR: 数据为:
+ERR: uid为:
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`) VALUES (null,'gQFi8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyLW5GM2doOFJkTmgxMDAwMDAwMzAAAgT2bs1bAwQAAAAA',11) [ RunTime:0.000342s ]
+ERR: json数据为:{"uid":null,"ticket":"gQFi8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyLW5GM2doOFJkTmgxMDAwMDAwMzAAAgT2bs1bAwQAAAAA","variable":11}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001396s ]
+
+[ 2018-10-22T14:34:59+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000562s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000373s ]
+ERR: 数据为:{"uid":100006}
+ERR: uid为:100006
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`) VALUES (100006,'gQG48DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUG5HVmd6OFJkTmgxMDAwMDAwMzkAAgQ8cM1bAwQAAAAA',12) [ RunTime:0.000343s ]
+ERR: json数据为:{"uid":100006,"ticket":"gQG48DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUG5HVmd6OFJkTmgxMDAwMDAwMzkAAgQ8cM1bAwQAAAAA","variable":12}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000252s ]
+
+[ 2018-10-22T14:45:53+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=1cc36df2848307459137cb002647b0336358af8a&echostr=7658549426746421978&timestamp=1540190922&nonce=190000510
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+ERR: signature: 1cc36df2848307459137cb002647b0336358af8a
+ERR: hashcode: 1cc36df2848307459137cb002647b0336358af8a
+ERR: file_in: 
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 108 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 109 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 110 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 111 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 112 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 113 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 114 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000765s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000341s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000180s ]
+
+[ 2018-10-22T14:46:32+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=980f26abf1349d764a7af2453b7617fb4cff9825&echostr=6175010693659490037&timestamp=1540190961&nonce=915588611
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+ERR: signature: 980f26abf1349d764a7af2453b7617fb4cff9825
+ERR: hashcode: 980f26abf1349d764a7af2453b7617fb4cff9825
+ERR: file_in: 
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 108 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 109 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 110 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 111 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 112 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 113 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 114 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000634s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000268s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2018-10-22T14:46:53+08:00 ] 61.129.6.203 /tp3.2/index.php/home/wx/wxPuMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Undefined index: signature /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 87 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 90 行.
+ERR: signature: 
+ERR: hashcode: 01e015ef8421caac025917bf182713560c0250ef
+ERR: 失败
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000159s ]
+
+[ 2018-10-22T14:47:07+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=2d5e767adb3b5262de540dac43d8a5809b684ac3&echostr=8225723201396635455&timestamp=1540190996&nonce=1855268487
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+ERR: signature: 2d5e767adb3b5262de540dac43d8a5809b684ac3
+ERR: hashcode: 2d5e767adb3b5262de540dac43d8a5809b684ac3
+ERR: file_in: 
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 108 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 109 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 110 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 111 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 112 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 113 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 114 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000635s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000332s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000190s ]
+
+[ 2018-10-22T14:47:10+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=d663d2f73f632061c73970dfd082e6eeb745204c&echostr=1967494975294763806&timestamp=1540190998&nonce=742222967
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+ERR: signature: d663d2f73f632061c73970dfd082e6eeb745204c
+ERR: hashcode: d663d2f73f632061c73970dfd082e6eeb745204c
+ERR: file_in: 
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 108 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 109 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 110 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 111 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 112 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 113 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 114 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000436s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000295s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2018-10-22T14:47:13+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=6b3d6d21bd293c5c74f4d7bd6cb0dac2daf7ee49&echostr=5801828561567216443&timestamp=1540191002&nonce=1414855343
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+ERR: signature: 6b3d6d21bd293c5c74f4d7bd6cb0dac2daf7ee49
+ERR: hashcode: 6b3d6d21bd293c5c74f4d7bd6cb0dac2daf7ee49
+ERR: file_in: 
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 108 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 109 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 110 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 111 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 112 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 113 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 114 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000603s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000285s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2018-10-22T14:47:22+08:00 ] 171.88.42.93 /tp3.2/index.php/home/wx/wxPuMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined index: signature /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 87 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 90 行.
+ERR: signature: 
+ERR: hashcode: 01e015ef8421caac025917bf182713560c0250ef
+ERR: 失败
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2018-10-22T14:47:38+08:00 ] 171.88.42.93 /tp3.2/index.php/home/wx/wxPuMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Undefined index: signature /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 87 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 90 行.
+ERR: signature: 
+ERR: hashcode: 01e015ef8421caac025917bf182713560c0250ef
+ERR: 失败
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000159s ]
+
+[ 2018-10-22T14:47:50+08:00 ] 171.88.42.93 /tp3.2/index.php/home/wx/wxPuMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8] Undefined index: signature /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 87 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 90 行.
+ERR: signature: 
+ERR: hashcode: 01e015ef8421caac025917bf182713560c0250ef
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2018-10-22T14:47:55+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=ee9c18ce0e21211cb914c061d1249a35360a79d9&echostr=8777233564654599013&timestamp=1540191045&nonce=2059413806
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+ERR: signature: ee9c18ce0e21211cb914c061d1249a35360a79d9
+ERR: hashcode: ee9c18ce0e21211cb914c061d1249a35360a79d9
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2018-10-22T14:51:08+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=5cdba9c0ad3e87ab2349d3edb57cdf3479152254&timestamp=1540191237&nonce=326189384&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 5cdba9c0ad3e87ab2349d3edb57cdf3479152254
+ERR: hashcode: 5cdba9c0ad3e87ab2349d3edb57cdf3479152254
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540191237</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000632s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000326s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000161s ]
+
+[ 2018-10-22T14:51:22+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=0b4a338fd051bd5c2de922b2912273e09ebfcd33&timestamp=1540191251&nonce=774074836&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 0b4a338fd051bd5c2de922b2912273e09ebfcd33
+ERR: hashcode: 0b4a338fd051bd5c2de922b2912273e09ebfcd33
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540191251</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_12]]></EventKey>
+<Ticket><![CDATA[gQG48DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUG5HVmd6OFJkTmgxMDAwMDAwMzkAAgQ8cM1bAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000621s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQG48DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUG5HVmd6OFJkTmgxMDAwMDAwMzkAAgQ8cM1bAwQAAAAA' )  [ RunTime:0.000339s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2018-10-22T15:04:59+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=ad214be8145fb73e0ec8f0d2af7e153c9615d8b7&timestamp=1540192068&nonce=1634683465&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: ad214be8145fb73e0ec8f0d2af7e153c9615d8b7
+ERR: hashcode: ad214be8145fb73e0ec8f0d2af7e153c9615d8b7
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540192068</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420128335</MenuId>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000652s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000319s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2018-10-22T16:11:19+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=f30365ca538b4e44ed62add91c2a89b1e4e75ea2&timestamp=1540196048&nonce=10860058&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: f30365ca538b4e44ed62add91c2a89b1e4e75ea2
+ERR: hashcode: f30365ca538b4e44ed62add91c2a89b1e4e75ea2
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196048</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUxMzg3MzY3Mg==&mid=100000004&idx=1&sn=207d201fb4af666f576102f037a2f208&chksm=794fc3634e384a757cb4f0d56010306960424b7c20923de267851e1d506220c450305269f40e&scene=18#rd]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000628s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000297s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2018-10-22T16:11:25+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=7627b30afdd39e7349ea663989487f3152b5f68c&timestamp=1540196054&nonce=224399292&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 7627b30afdd39e7349ea663989487f3152b5f68c
+ERR: hashcode: 7627b30afdd39e7349ea663989487f3152b5f68c
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196054</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUxMzg3MzY3Mg==&mid=100000004&idx=1&sn=207d201fb4af666f576102f037a2f208&chksm=794fc3634e384a757cb4f0d56010306960424b7c20923de267851e1d506220c450305269f40e&scene=18#rd]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000625s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000329s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000223s ]
+
+[ 2018-10-22T16:11:48+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=fbbc1873c4470e4fead61d366577b3aeec940dcf&timestamp=1540196077&nonce=1202064653&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: fbbc1873c4470e4fead61d366577b3aeec940dcf
+ERR: hashcode: fbbc1873c4470e4fead61d366577b3aeec940dcf
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196077</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000664s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000337s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2018-10-22T16:11:53+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=a3537c88aed78c24171e88cc4fe1d2246050f904&timestamp=1540196082&nonce=853008165&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: a3537c88aed78c24171e88cc4fe1d2246050f904
+ERR: hashcode: a3537c88aed78c24171e88cc4fe1d2246050f904
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196082</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUxMzg3MzY3Mg==&mid=100000004&idx=1&sn=207d201fb4af666f576102f037a2f208&chksm=794fc3634e384a757cb4f0d56010306960424b7c20923de267851e1d506220c450305269f40e&scene=18#rd]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000623s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000337s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000181s ]
+
+[ 2018-10-22T16:12:05+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=5b6717f5f177f4b4608134fbf346a3608a0beccf&timestamp=1540196094&nonce=502408659&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 5b6717f5f177f4b4608134fbf346a3608a0beccf
+ERR: hashcode: 5b6717f5f177f4b4608134fbf346a3608a0beccf
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196094</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUxMzg3MzY3Mg==&mid=100000004&idx=1&sn=207d201fb4af666f576102f037a2f208&chksm=794fc3634e384a757cb4f0d56010306960424b7c20923de267851e1d506220c450305269f40e&scene=18#rd]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000627s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000328s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000178s ]
+
+[ 2018-10-22T16:12:28+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=fc24da31dcd7fda113d62349c8a644ebc6e85bd6&timestamp=1540196117&nonce=253583776&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: fc24da31dcd7fda113d62349c8a644ebc6e85bd6
+ERR: hashcode: fc24da31dcd7fda113d62349c8a644ebc6e85bd6
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196117</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUxMzg3MzY3Mg==&mid=100000004&idx=1&sn=207d201fb4af666f576102f037a2f208&chksm=794fc3634e384a757cb4f0d56010306960424b7c20923de267851e1d506220c450305269f40e&scene=18#rd]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000655s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000289s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2018-10-22T16:13:48+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=1a594dae6086030727e68dac93a2ea9884e26aac&timestamp=1540196196&nonce=1436360114&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 1a594dae6086030727e68dac93a2ea9884e26aac
+ERR: hashcode: 1a594dae6086030727e68dac93a2ea9884e26aac
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196196</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUxMzg3MzY3Mg==&mid=100000004&idx=1&sn=207d201fb4af666f576102f037a2f208&chksm=794fc3634e384a757cb4f0d56010306960424b7c20923de267851e1d506220c450305269f40e&scene=18#rd]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000481s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000305s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000182s ]
+
+[ 2018-10-22T16:14:15+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=7ed4c1458bd2ee56dbab152a293681b0cb670c06&timestamp=1540196224&nonce=1280198634&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 7ed4c1458bd2ee56dbab152a293681b0cb670c06
+ERR: hashcode: 7ed4c1458bd2ee56dbab152a293681b0cb670c06
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196223</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 诺楼哦]]></Content>
+<MsgId>6615092407627849776</MsgId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000671s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000776s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2018-10-22T16:14:18+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=1b9b8bc5169ea6715dc25b7f851240129d0fd084&timestamp=1540196226&nonce=971421334&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 1b9b8bc5169ea6715dc25b7f851240129d0fd084
+ERR: hashcode: 1b9b8bc5169ea6715dc25b7f851240129d0fd084
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196226</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUxMzg3MzY3Mg==&mid=100000004&idx=1&sn=207d201fb4af666f576102f037a2f208&chksm=794fc3634e384a757cb4f0d56010306960424b7c20923de267851e1d506220c450305269f40e&scene=18#rd]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000503s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000352s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000233s ]
+
+[ 2018-10-22T16:14:30+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=5111f73161fc05df76d0f49504f6bfccc524ded5&timestamp=1540196239&nonce=609544423&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 5111f73161fc05df76d0f49504f6bfccc524ded5
+ERR: hashcode: 5111f73161fc05df76d0f49504f6bfccc524ded5
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196239</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000614s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000366s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2018-10-22T16:14:35+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=887f7990f76733c930bbb0985b0f9a79f6f9b689&timestamp=1540196244&nonce=2091534999&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 887f7990f76733c930bbb0985b0f9a79f6f9b689
+ERR: hashcode: 887f7990f76733c930bbb0985b0f9a79f6f9b689
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540196244</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUxMzg3MzY3Mg==&mid=100000004&idx=1&sn=207d201fb4af666f576102f037a2f208&chksm=794fc3634e384a757cb4f0d56010306960424b7c20923de267851e1d506220c450305269f40e&scene=18#rd]]></EventKey>
+<MenuId>420128356</MenuId>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 133 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000505s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000331s ]
+ERR: 
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000249s ]
+
+[ 2018-10-22T16:30:46+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=ebcfe4973a592ec670aaf18a926b8924a05afa27&timestamp=1540197214&nonce=264661425&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: ebcfe4973a592ec670aaf18a926b8924a05afa27
+ERR: hashcode: ebcfe4973a592ec670aaf18a926b8924a05afa27
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540197214</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[12]]></EventKey>
+<Ticket><![CDATA[gQG48DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUG5HVmd6OFJkTmgxMDAwMDAwMzkAAgQ8cM1bAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000570s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQG48DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUG5HVmd6OFJkTmgxMDAwMDAwMzkAAgQ8cM1bAwQAAAAA' )  [ RunTime:0.000351s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-10-22T16:31:01+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=5ac1405d143b08c5308a30874b17c4c4e1b61fcc&timestamp=1540197229&nonce=1663572062&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 5ac1405d143b08c5308a30874b17c4c4e1b61fcc
+ERR: hashcode: 5ac1405d143b08c5308a30874b17c4c4e1b61fcc
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540197230</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[12]]></EventKey>
+<Ticket><![CDATA[gQG48DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUG5HVmd6OFJkTmgxMDAwMDAwMzkAAgQ8cM1bAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000572s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQG48DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUG5HVmd6OFJkTmgxMDAwMDAwMzkAAgQ8cM1bAwQAAAAA' )  [ RunTime:0.000344s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-10-22T16:32:36+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000726s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000342s ]
+ERR: 数据为:{"uid":100049}
+ERR: uid为:100049
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`) VALUES (100049,'gQHm8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyR0RlS2dQOFJkTmgxMDAwMHcwM2EAAgTOi81bAwQAAAAA',13) [ RunTime:0.000346s ]
+ERR: json数据为:{"uid":100049,"ticket":"gQHm8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyR0RlS2dQOFJkTmgxMDAwMHcwM2EAAgTOi81bAwQAAAAA","variable":13}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2018-10-22T16:34:56+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=0359b72f9aae75a2aef11e81f2600aec80e7e681&timestamp=1540197465&nonce=1437156325&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 0359b72f9aae75a2aef11e81f2600aec80e7e681
+ERR: hashcode: 0359b72f9aae75a2aef11e81f2600aec80e7e681
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540197465</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[13]]></EventKey>
+<Ticket><![CDATA[gQHm8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyR0RlS2dQOFJkTmgxMDAwMHcwM2EAAgTOi81bAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000673s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQHm8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyR0RlS2dQOFJkTmgxMDAwMHcwM2EAAgTOi81bAwQAAAAA' )  [ RunTime:0.000348s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2018-10-22T16:35:49+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=03cc22963cfae81debbe0df515fc331d1b30a9eb&timestamp=1540197518&nonce=1514541266&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: 03cc22963cfae81debbe0df515fc331d1b30a9eb
+ERR: hashcode: 03cc22963cfae81debbe0df515fc331d1b30a9eb
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540197518</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[13]]></EventKey>
+<Ticket><![CDATA[gQHm8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyR0RlS2dQOFJkTmgxMDAwMHcwM2EAAgTOi81bAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000663s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQHm8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyR0RlS2dQOFJkTmgxMDAwMHcwM2EAAgTOi81bAwQAAAAA' )  [ RunTime:0.000327s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000180s ]
+
+[ 2018-10-22T16:38:59+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=a2eb8747c741b8426746110ffc9223490e9d9bf3&timestamp=1540197708&nonce=952503951&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 88 行.
+ERR: signature: a2eb8747c741b8426746110ffc9223490e9d9bf3
+ERR: hashcode: a2eb8747c741b8426746110ffc9223490e9d9bf3
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540197708</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420128358</MenuId>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000636s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000332s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: 
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000144s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000249s ]
+

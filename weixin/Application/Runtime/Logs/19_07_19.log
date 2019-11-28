@@ -1,0 +1,2719 @@
+[ 2019-07-19T10:09:46+08:00 ] 171.221.170.206 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+ERR: 数据为:{"uid":100001,"header_url":""}
+ERR: uid为:100001
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000773s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000316s ]
+ERR: json数据为:{"uid":100001,"url":"http:\/\/39.98.241.250\/code8\/100001.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2019-07-19T10:18:48+08:00 ] 171.221.170.213 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000729s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000298s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2019-07-19T10:20:55+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000722s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000294s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2019-07-19T11:27:42+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000785s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000287s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2019-07-19T11:28:49+08:00 ] 171.221.170.195 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000770s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000305s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2019-07-19T11:32:39+08:00 ] 171.221.170.195 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000742s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000291s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2019-07-19T11:35:28+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000765s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000293s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-07-19T14:01:30+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000750s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000301s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-07-19T14:02:19+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000774s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000346s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2019-07-19T14:04:01+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000741s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000304s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2019-07-19T14:05:42+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000702s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000314s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-07-19T14:06:51+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000709s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000287s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2019-07-19T14:07:55+08:00 ] 110.185.39.190 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000744s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000288s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2019-07-19T14:08:19+08:00 ] 110.185.39.196 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000748s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000282s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2019-07-19T14:10:21+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000754s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000291s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2019-07-19T14:12:55+08:00 ] 110.185.39.190 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000750s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000284s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2019-07-19T14:16:29+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000782s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000282s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2019-07-19T14:19:04+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000702s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000287s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2019-07-19T14:23:15+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000752s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000323s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2019-07-19T14:24:16+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000713s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000272s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2019-07-19T14:24:57+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000735s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000280s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2019-07-19T14:28:38+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000780s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000338s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2019-07-19T14:31:04+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000761s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000302s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2019-07-19T14:33:43+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000734s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000296s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-19T14:36:51+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000766s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000289s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2019-07-19T14:39:12+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+ERR: 数据为:{"uid":100001,"header_url":""}
+ERR: uid为:100001
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000760s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000297s ]
+ERR: json数据为:{"uid":100001,"url":"http:\/\/39.98.241.250\/code8\/100001.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2019-07-19T14:40:45+08:00 ] 110.185.39.174 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+ERR: 数据为:{"uid":100001,"header_url":""}
+ERR: uid为:100001
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000775s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000300s ]
+ERR: json数据为:{"uid":100001,"url":"http:\/\/39.98.241.250\/code8\/100001.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2019-07-19T14:45:18+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000768s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000363s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2019-07-19T14:46:05+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000722s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000287s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T14:50:07+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+ERR: 数据为:{"uid":100001,"header_url":""}
+ERR: uid为:100001
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000747s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000306s ]
+ERR: json数据为:{"uid":100001,"url":"http:\/\/39.98.241.250\/code8\/100001.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T14:51:17+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000762s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000294s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2019-07-19T14:52:01+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000752s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000306s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2019-07-19T14:54:38+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000764s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000301s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2019-07-19T14:56:24+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 数据为:{"uid":100026,"header_url":"http://39.98.241.250/header/Public/upload/header/100026.png"}
+ERR: uid为:100026
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100026.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000763s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100026.png' )  [ RunTime:0.000313s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100026,'http://39.98.241.250/header/Public/upload/header/100026.png','100026.png','http://39.98.241.250/tp3.2/Public/upload/header/100026.png') [ RunTime:0.000300s ]
+ERR: json数据为:{"uid":100026,"url":"http:\/\/39.98.241.250\/code8\/100026.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2019-07-19T15:01:23+08:00 ] 110.185.39.190 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+ERR: 数据为:{"uid":100007,"header_url":""}
+ERR: uid为:100007
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000731s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000294s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2019-07-19T15:02:11+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000805s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000324s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100025,'http://39.98.241.250/header/Public/upload/header/100025.png','100025.png','http://39.98.241.250/tp3.2/Public/upload/header/100025.png') [ RunTime:0.000333s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2019-07-19T15:02:59+08:00 ] 110.185.39.174 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000725s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000301s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2019-07-19T15:10:39+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000756s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000280s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100025,'http://39.98.241.250/header/Public/upload/header/100025.png','100025.png','http://39.98.241.250/tp3.2/Public/upload/header/100025.png') [ RunTime:0.000282s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2019-07-19T15:11:10+08:00 ] 110.185.39.174 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+ERR: 数据为:{"uid":100025,"header_url":"http://39.98.241.250/header/Public/upload/header/100025.png"}
+ERR: uid为:100025
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100025.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000748s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100025.png' )  [ RunTime:0.000306s ]
+ERR: json数据为:{"uid":100025,"url":"http:\/\/39.98.241.250\/code8\/100025.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2019-07-19T15:12:52+08:00 ] 110.185.39.190 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+ERR: 数据为:{"uid":100027,"header_url":"http://39.98.241.250/header/Public/upload/header/100027.png"}
+ERR: uid为:100027
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100027.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000753s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100027.png' )  [ RunTime:0.000304s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100027,'http://39.98.241.250/header/Public/upload/header/100027.png','100027.png','http://39.98.241.250/tp3.2/Public/upload/header/100027.png') [ RunTime:0.000285s ]
+ERR: json数据为:{"uid":100027,"url":"http:\/\/39.98.241.250\/code8\/100027.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-07-19T15:18:45+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+ERR: 数据为:{"uid":100027,"header_url":"http://39.98.241.250/header/Public/upload/header/100027.png"}
+ERR: uid为:100027
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100027.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000774s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100027.png' )  [ RunTime:0.000297s ]
+ERR: json数据为:{"uid":100027,"url":"http:\/\/39.98.241.250\/code8\/100027.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-19T15:19:23+08:00 ] 110.185.39.201 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+ERR: 数据为:{"uid":100027,"header_url":"http://39.98.241.250/header/Public/upload/header/100027.png"}
+ERR: uid为:100027
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100027.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000744s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100027.png' )  [ RunTime:0.000303s ]
+ERR: json数据为:{"uid":100027,"url":"http:\/\/39.98.241.250\/code8\/100027.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-07-19T15:19:26+08:00 ] 222.211.163.67 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+ERR: 数据为:{"uid":100027,"header_url":"http://39.98.241.250/header/Public/upload/header/100027.png"}
+ERR: uid为:100027
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100027.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000714s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100027.png' )  [ RunTime:0.000285s ]
+ERR: json数据为:{"uid":100027,"url":"http:\/\/39.98.241.250\/code8\/100027.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2019-07-19T15:19:29+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+ERR: 数据为:{"uid":100027,"header_url":"http://39.98.241.250/header/Public/upload/header/100027.png"}
+ERR: uid为:100027
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100027.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000776s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100027.png' )  [ RunTime:0.000310s ]
+ERR: json数据为:{"uid":100027,"url":"http:\/\/39.98.241.250\/code8\/100027.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-07-19T15:19:39+08:00 ] 222.211.163.56 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+ERR: 数据为:{"uid":100027,"header_url":"http://39.98.241.250/header/Public/upload/header/100027.png"}
+ERR: uid为:100027
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100027.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000696s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100027.png' )  [ RunTime:0.000303s ]
+ERR: json数据为:{"uid":100027,"url":"http:\/\/39.98.241.250\/code8\/100027.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2019-07-19T15:21:18+08:00 ] 110.185.39.174 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+ERR: 数据为:{"uid":100027,"header_url":"http://39.98.241.250/header/Public/upload/header/100027.png"}
+ERR: uid为:100027
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100027.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000766s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100027.png' )  [ RunTime:0.000310s ]
+ERR: json数据为:{"uid":100027,"url":"http:\/\/39.98.241.250\/code8\/100027.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2019-07-19T15:39:05+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000738s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000283s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100017,'http://39.98.241.250/header/Public/upload/header/100017.png','100017.png','http://39.98.241.250/tp3.2/Public/upload/header/100017.png') [ RunTime:0.000314s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2019-07-19T15:42:32+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000768s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000311s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2019-07-19T15:42:42+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000738s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000314s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100006,'http://39.98.241.250/header/Public/upload/header/100006.png','100006.png','http://39.98.241.250/tp3.2/Public/upload/header/100006.png') [ RunTime:0.000278s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2019-07-19T15:43:41+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000755s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000314s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-07-19T15:43:44+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000726s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000290s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100018,'http://39.98.241.250/header/Public/upload/header/100018.png','100018.png','http://39.98.241.250/tp3.2/Public/upload/header/100018.png') [ RunTime:0.000269s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-07-19T15:44:12+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000724s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000338s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-07-19T15:44:34+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000735s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000289s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2019-07-19T15:44:35+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000729s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000309s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2019-07-19T15:50:26+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000721s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000300s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2019-07-19T15:50:34+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000719s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000292s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2019-07-19T15:52:35+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.001556s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000300s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-07-19T15:53:30+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000747s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000309s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2019-07-19T15:56:26+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000705s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000301s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2019-07-19T15:56:40+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000745s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000309s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2019-07-19T15:59:38+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000731s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000286s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T16:00:10+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000750s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000287s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100008,'http://39.98.241.250/header/Public/upload/header/100008.png','100008.png','http://39.98.241.250/tp3.2/Public/upload/header/100008.png') [ RunTime:0.000281s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2019-07-19T16:02:45+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000724s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000305s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-07-19T16:03:42+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000731s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000284s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2019-07-19T16:04:25+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000738s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000298s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2019-07-19T16:04:28+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000727s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000328s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2019-07-19T16:06:00+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000710s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000276s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2019-07-19T16:06:30+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000741s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000303s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2019-07-19T16:08:49+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000821s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000313s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2019-07-19T16:09:01+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000725s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000300s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2019-07-19T16:09:38+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000719s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000268s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2019-07-19T16:10:25+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000746s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000310s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2019-07-19T16:11:02+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000734s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000300s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2019-07-19T16:11:09+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000669s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000293s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2019-07-19T16:13:27+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000705s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000294s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2019-07-19T16:13:28+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000768s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000313s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2019-07-19T16:13:34+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000724s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000306s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2019-07-19T16:14:48+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000739s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000284s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2019-07-19T16:15:07+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000806s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000317s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-07-19T16:17:43+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000829s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000282s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2019-07-19T16:17:46+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000715s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000297s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2019-07-19T16:17:52+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000751s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000322s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-07-19T16:18:15+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000721s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000306s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2019-07-19T16:19:07+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000713s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000313s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2019-07-19T16:19:14+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000745s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000300s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-07-19T16:19:22+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000743s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000312s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2019-07-19T16:19:22+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000721s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000289s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2019-07-19T16:30:30+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000784s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000288s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100017,'http://39.98.241.250/header/Public/upload/header/100017.png','100017.png','http://39.98.241.250/tp3.2/Public/upload/header/100017.png') [ RunTime:0.000319s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2019-07-19T16:32:03+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000796s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000304s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100008,'http://39.98.241.250/header/Public/upload/header/100008.png','100008.png','http://39.98.241.250/tp3.2/Public/upload/header/100008.png') [ RunTime:0.000286s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2019-07-19T16:33:02+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000775s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000306s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2019-07-19T16:33:09+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000750s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000290s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2019-07-19T16:33:11+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000782s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000306s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2019-07-19T16:33:13+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000741s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000302s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T16:33:15+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000750s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000295s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2019-07-19T16:33:36+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000756s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000296s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T16:37:26+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+ERR: 数据为:{"uid":100019,"header_url":"http://39.98.241.250/header/Public/upload/header/100019.png"}
+ERR: uid为:100019
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100019.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000730s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100019.png' )  [ RunTime:0.000290s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100019,'http://39.98.241.250/header/Public/upload/header/100019.png','100019.png','http://39.98.241.250/tp3.2/Public/upload/header/100019.png') [ RunTime:0.000285s ]
+ERR: json数据为:{"uid":100019,"url":"http:\/\/39.98.241.250\/code8\/100019.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-07-19T16:42:13+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+ERR: 数据为:{"uid":100019,"header_url":"http://39.98.241.250/header/Public/upload/header/100019.png"}
+ERR: uid为:100019
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100019.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000746s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100019.png' )  [ RunTime:0.000288s ]
+ERR: json数据为:{"uid":100019,"url":"http:\/\/39.98.241.250\/code8\/100019.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-07-19T16:42:27+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+ERR: 数据为:{"uid":100004,"header_url":""}
+ERR: uid为:100004
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000746s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100004.png' )  [ RunTime:0.000280s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100004,'http://39.98.241.250/tp3.2/Public/upload/empty/robot.png','100004.png','http://39.98.241.250/tp3.2/Public/upload/header/100004.png') [ RunTime:0.000287s ]
+ERR: json数据为:{"uid":100004,"url":"http:\/\/39.98.241.250\/code8\/100004.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-07-19T16:49:33+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000775s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000305s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100007,'http://39.98.241.250/header/Public/upload/header/100007.png','100007.png','http://39.98.241.250/tp3.2/Public/upload/header/100007.png') [ RunTime:0.000291s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2019-07-19T16:50:39+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000752s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000311s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2019-07-19T16:56:48+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000771s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000337s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2019-07-19T16:58:59+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000770s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000273s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100018,'http://39.98.241.250/header/Public/upload/header/100018.png','100018.png','http://39.98.241.250/tp3.2/Public/upload/header/100018.png') [ RunTime:0.000295s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-19T17:00:28+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000733s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000299s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2019-07-19T17:03:30+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000746s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000303s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2019-07-19T17:03:57+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000736s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000299s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100006,'http://39.98.241.250/header/Public/upload/header/100006.png','100006.png','http://39.98.241.250/tp3.2/Public/upload/header/100006.png') [ RunTime:0.000250s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2019-07-19T17:05:37+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000757s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000309s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2019-07-19T17:05:39+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000735s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000311s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2019-07-19T17:05:41+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+ERR: 数据为:{"uid":100019,"header_url":"http://39.98.241.250/header/Public/upload/header/100019.png"}
+ERR: uid为:100019
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100019.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000754s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100019.png' )  [ RunTime:0.000323s ]
+ERR: json数据为:{"uid":100019,"url":"http:\/\/39.98.241.250\/code8\/100019.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T17:06:50+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+ERR: 数据为:{"uid":100019,"header_url":"http://39.98.241.250/header/Public/upload/header/100019.png"}
+ERR: uid为:100019
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100019.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000699s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100019.png' )  [ RunTime:0.000272s ]
+ERR: json数据为:{"uid":100019,"url":"http:\/\/39.98.241.250\/code8\/100019.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2019-07-19T17:07:08+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+ERR: 数据为:{"uid":100019,"header_url":"http://39.98.241.250/header/Public/upload/header/100019.png"}
+ERR: uid为:100019
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100019.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000723s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100019.png' )  [ RunTime:0.000301s ]
+ERR: json数据为:{"uid":100019,"url":"http:\/\/39.98.241.250\/code8\/100019.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-19T17:21:20+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000763s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000311s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2019-07-19T17:22:26+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+ERR: 数据为:{"uid":100002,"header_url":""}
+ERR: uid为:100002
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000758s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100002.png' )  [ RunTime:0.000320s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100002,'http://39.98.241.250/tp3.2/Public/upload/empty/robot.png','100002.png','http://39.98.241.250/tp3.2/Public/upload/header/100002.png') [ RunTime:0.000299s ]
+ERR: json数据为:{"uid":100002,"url":"http:\/\/39.98.241.250\/code8\/100002.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2019-07-19T17:23:42+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+ERR: 数据为:{"uid":100002,"header_url":""}
+ERR: uid为:100002
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000743s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100002.png' )  [ RunTime:0.000297s ]
+ERR: json数据为:{"uid":100002,"url":"http:\/\/39.98.241.250\/code8\/100002.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2019-07-19T17:25:54+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+ERR: 数据为:{"uid":100002,"header_url":""}
+ERR: uid为:100002
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000750s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100002.png' )  [ RunTime:0.000321s ]
+ERR: json数据为:{"uid":100002,"url":"http:\/\/39.98.241.250\/code8\/100002.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T17:26:56+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 数据为:{"uid":100002,"header_url":""}
+ERR: uid为:100002
+ERR: 头像地址为:
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000760s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100002.png' )  [ RunTime:0.000298s ]
+ERR: json数据为:{"uid":100002,"url":"http:\/\/39.98.241.250\/code8\/100002.png"}
+ERR: 头像地址为空
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-07-19T17:33:17+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000770s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000307s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2019-07-19T17:33:28+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000743s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000321s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2019-07-19T17:33:33+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+ERR: 数据为:{"uid":100007,"header_url":"http://39.98.241.250/header/Public/upload/header/100007.png"}
+ERR: uid为:100007
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100007.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000765s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100007.png' )  [ RunTime:0.000309s ]
+ERR: json数据为:{"uid":100007,"url":"http:\/\/39.98.241.250\/code8\/100007.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2019-07-19T17:45:15+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+ERR: 数据为:{"uid":100019,"header_url":"http://39.98.241.250/header/Public/upload/header/100019.png"}
+ERR: uid为:100019
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100019.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000725s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100019.png' )  [ RunTime:0.000342s ]
+ERR: json数据为:{"uid":100019,"url":"http:\/\/39.98.241.250\/code8\/100019.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T17:50:24+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+ERR: 数据为:{"uid":100019,"header_url":"http://39.98.241.250/header/Public/upload/header/100019.png"}
+ERR: uid为:100019
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100019.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000752s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100019.png' )  [ RunTime:0.000305s ]
+ERR: json数据为:{"uid":100019,"url":"http:\/\/39.98.241.250\/code8\/100019.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2019-07-19T17:53:08+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000714s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000298s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2019-07-19T18:01:31+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000784s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000320s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2019-07-19T18:04:22+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000765s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000315s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2019-07-19T18:06:31+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+ERR: 数据为:{"uid":100008,"header_url":"http://39.98.241.250/header/Public/upload/header/100008.png"}
+ERR: uid为:100008
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100008.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000734s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100008.png' )  [ RunTime:0.000298s ]
+ERR: json数据为:{"uid":100008,"url":"http:\/\/39.98.241.250\/code8\/100008.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2019-07-19T18:10:12+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000778s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000297s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100017,'http://39.98.241.250/header/Public/upload/header/100017.png','100017.png','http://39.98.241.250/tp3.2/Public/upload/header/100017.png') [ RunTime:0.000295s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2019-07-19T18:16:06+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000746s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000347s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100017,'http://39.98.241.250/header/Public/upload/header/100017.png','100017.png','http://39.98.241.250/tp3.2/Public/upload/header/100017.png') [ RunTime:0.000297s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2019-07-19T18:16:54+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000741s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000310s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2019-07-19T18:17:01+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000758s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000310s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2019-07-19T18:17:24+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000740s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000315s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2019-07-19T18:20:03+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000727s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000281s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100017,'http://39.98.241.250/header/Public/upload/header/100017.png','100017.png','http://39.98.241.250/tp3.2/Public/upload/header/100017.png') [ RunTime:0.000280s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2019-07-19T18:23:03+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000746s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000319s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-19T18:30:00+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000770s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000302s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2019-07-19T18:31:10+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000748s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000307s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2019-07-19T18:31:47+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000752s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000313s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2019-07-19T18:32:13+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000737s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000326s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-07-19T18:32:35+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000766s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000320s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2019-07-19T18:33:07+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+ERR: 数据为:{"uid":100006,"header_url":"http://39.98.241.250/header/Public/upload/header/100006.png"}
+ERR: uid为:100006
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100006.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000755s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100006.png' )  [ RunTime:0.000299s ]
+ERR: json数据为:{"uid":100006,"url":"http:\/\/39.98.241.250\/code8\/100006.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2019-07-19T18:51:40+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000760s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000280s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-19T18:57:06+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000758s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000327s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-07-19T20:33:09+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000727s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000310s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2019-07-19T20:33:14+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000745s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000305s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2019-07-19T20:57:39+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000710s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000289s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2019-07-19T20:59:04+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000757s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000330s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2019-07-19T20:59:09+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000737s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000310s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2019-07-19T20:59:44+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+ERR: 数据为:{"uid":100018,"header_url":"http://39.98.241.250/header/Public/upload/header/100018.png"}
+ERR: uid为:100018
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100018.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000732s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100018.png' )  [ RunTime:0.000341s ]
+ERR: json数据为:{"uid":100018,"url":"http:\/\/39.98.241.250\/code8\/100018.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2019-07-19T22:21:42+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000750s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000297s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2019-07-19T22:38:12+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+ERR: 数据为:{"uid":100020,"header_url":"http://39.98.241.250/header/Public/upload/header/100020.png"}
+ERR: uid为:100020
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100020.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000786s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100020.png' )  [ RunTime:0.000335s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100020,'http://39.98.241.250/header/Public/upload/header/100020.png','100020.png','http://39.98.241.250/tp3.2/Public/upload/header/100020.png') [ RunTime:0.000301s ]
+ERR: json数据为:{"uid":100020,"url":"http:\/\/39.98.241.250\/code8\/100020.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2019-07-19T22:41:37+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000775s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000312s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100017,'http://39.98.241.250/header/Public/upload/header/100017.png','100017.png','http://39.98.241.250/tp3.2/Public/upload/header/100017.png') [ RunTime:0.000301s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+

@@ -1,0 +1,42 @@
+[ 2019-04-18T18:15:11+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=c2a4b5e25ee4dc5f4556bcf2091cbec8bd4c65fb&timestamp=1555582656&nonce=1506478684&openid=o2rZm6BDAVHKRApS3fQav8l0qO60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+ERR: signature: c2a4b5e25ee4dc5f4556bcf2091cbec8bd4c65fb
+ERR: hashcode: c2a4b5e25ee4dc5f4556bcf2091cbec8bd4c65fb
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6BDAVHKRApS3fQav8l0qO60]]></FromUserName>
+<CreateTime>1555582646</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6BDAVHKRApS3fQav8l0qO60
+ERR: 得到getUnionId为:oyGzF07WMNSiwgMsU5QjhSrJ6mo0
+ERR: 得到nickname微信名称为:lrb
+
+[ 2019-04-18T18:21:41+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=39ecb32ccb3b1250941ac96ca6153671c153585a&timestamp=1555583047&nonce=1648913632&openid=o2rZm6BDAVHKRApS3fQav8l0qO60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+ERR: signature: 39ecb32ccb3b1250941ac96ca6153671c153585a
+ERR: hashcode: 39ecb32ccb3b1250941ac96ca6153671c153585a
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6BDAVHKRApS3fQav8l0qO60]]></FromUserName>
+<CreateTime>1555583047</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6BDAVHKRApS3fQav8l0qO60
+ERR: 得到getUnionId为:oyGzF07WMNSiwgMsU5QjhSrJ6mo0
+ERR: 得到nickname微信名称为:lrb
+

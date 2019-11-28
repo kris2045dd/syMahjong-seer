@@ -1,0 +1,54 @@
+[ 2018-11-07T14:35:42+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=7278d8b1d1f7b8d490b7f3bf2de42f7b11922405&timestamp=1541572731&nonce=16268563&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+ERR: signature: 7278d8b1d1f7b8d490b7f3bf2de42f7b11922405
+ERR: hashcode: 7278d8b1d1f7b8d490b7f3bf2de42f7b11922405
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1541572731</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[15]]></EventKey>
+<Ticket><![CDATA[gQGx8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAySGJCS2htOFJkTmgxMDAwME0wM2cAAgTct9JbAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000594s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQGx8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAySGJCS2htOFJkTmgxMDAwME0wM2cAAgTct9JbAwQAAAAA' )  [ RunTime:0.000343s ]
+ERR: olSdR1kBVE2O0e6mnHU6JTGWeQcU
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000211s ]
+
+[ 2018-11-07T17:08:26+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=ab3e62e31ff99c8cde7b5677d607ae5f74e7e38f&timestamp=1541581895&nonce=1319302932&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000152s ]
+ERR: signature: ab3e62e31ff99c8cde7b5677d607ae5f74e7e38f
+ERR: hashcode: ab3e62e31ff99c8cde7b5677d607ae5f74e7e38f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1541581895</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[15]]></EventKey>
+<Ticket><![CDATA[gQGx8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAySGJCS2htOFJkTmgxMDAwME0wM2cAAgTct9JbAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000682s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQGx8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAySGJCS2htOFJkTmgxMDAwME0wM2cAAgTct9JbAwQAAAAA' )  [ RunTime:0.000327s ]
+ERR: olSdR1kBVE2O0e6mnHU6JTGWeQcU
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000191s ]
+

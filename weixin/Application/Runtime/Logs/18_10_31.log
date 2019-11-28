@@ -1,0 +1,90 @@
+[ 2018-10-31T16:12:53+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000627s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000309s ]
+ERR: 数据为:{"uid":100424}
+ERR: uid为:100424
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`,`time`) VALUES (100424,'gQFo8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyR0hUR2c3OFJkTmgxMDAwMHcwNzQAAgS6ZNlbAwQAAAAA',5,'2018-10-31 16:12:53') [ RunTime:0.000333s ]
+ERR: json数据为:{"uid":100424,"ticket":"gQFo8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyR0hUR2c3OFJkTmgxMDAwMHcwNzQAAgS6ZNlbAwQAAAAA","variable":5,"url":"http:\/\/caiyunyigou.com\/tp3.2\/100424.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000164s ]
+
+[ 2018-10-31T16:22:32+08:00 ] 42.51.64.43 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000665s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000341s ]
+ERR: 数据为:{"uid":100425}
+ERR: uid为:100425
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`,`time`) VALUES (100425,'gQGJ8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUnl4VmdLOFJkTmgxMDAwME0wN3UAAgT9ZtlbAwQAAAAA',6,'2018-10-31 16:22:32') [ RunTime:0.000348s ]
+ERR: json数据为:{"uid":100425,"ticket":"gQGJ8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUnl4VmdLOFJkTmgxMDAwME0wN3UAAgT9ZtlbAwQAAAAA","variable":6,"url":"http:\/\/caiyunyigou.com\/tp3.2\/100425.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2018-10-31T16:24:39+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=9d06fa6c40e842c228a6369561f764515216e705&timestamp=1540974460&nonce=1377787796&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+ERR: signature: 9d06fa6c40e842c228a6369561f764515216e705
+ERR: hashcode: 9d06fa6c40e842c228a6369561f764515216e705
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540974460</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[6]]></EventKey>
+<Ticket><![CDATA[gQGJ8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUnl4VmdLOFJkTmgxMDAwME0wN3UAAgT9ZtlbAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000649s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQGJ8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUnl4VmdLOFJkTmgxMDAwME0wN3UAAgT9ZtlbAwQAAAAA' )  [ RunTime:0.000351s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000188s ]
+
+[ 2018-10-31T16:37:58+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=d60763da0ad60a3684abb01fdb04dbdb8b383c11&timestamp=1540975259&nonce=615323433&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: d60763da0ad60a3684abb01fdb04dbdb8b383c11
+ERR: hashcode: d60763da0ad60a3684abb01fdb04dbdb8b383c11
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540975259</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[6]]></EventKey>
+<Ticket><![CDATA[gQGJ8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUnl4VmdLOFJkTmgxMDAwME0wN3UAAgT9ZtlbAwQAAAAA]]></Ticket>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000654s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='gQGJ8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUnl4VmdLOFJkTmgxMDAwME0wN3UAAgT9ZtlbAwQAAAAA' )  [ RunTime:0.000351s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+

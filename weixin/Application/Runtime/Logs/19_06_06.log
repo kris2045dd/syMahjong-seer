@@ -1,0 +1,57 @@
+[ 2019-06-06T18:40:17+08:00 ] 140.207.54.78 /tp3.2/index.php/home/wx/wxPuMsg?signature=d33b9abf09921d38b6a0fdc8158089dd26b6f88c&timestamp=1559817796&nonce=932915789&openid=oCHVx0Y8aHJo9OqhtsMncBtV7GQk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+ERR: signature: d33b9abf09921d38b6a0fdc8158089dd26b6f88c
+ERR: hashcode: d33b9abf09921d38b6a0fdc8158089dd26b6f88c
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0Y8aHJo9OqhtsMncBtV7GQk]]></FromUserName>
+<CreateTime>1559817796</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 164 行.
+ERR: 返回结果是:
+
+[ 2019-06-06T18:40:22+08:00 ] 140.207.54.78 /tp3.2/index.php/home/wx/wxPuMsg?signature=d33b9abf09921d38b6a0fdc8158089dd26b6f88c&timestamp=1559817796&nonce=932915789&openid=oCHVx0Y8aHJo9OqhtsMncBtV7GQk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+ERR: signature: d33b9abf09921d38b6a0fdc8158089dd26b6f88c
+ERR: hashcode: d33b9abf09921d38b6a0fdc8158089dd26b6f88c
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0Y8aHJo9OqhtsMncBtV7GQk]]></FromUserName>
+<CreateTime>1559817796</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 164 行.
+ERR: 返回结果是:
+
+[ 2019-06-06T18:40:27+08:00 ] 140.207.54.78 /tp3.2/index.php/home/wx/wxPuMsg?signature=d33b9abf09921d38b6a0fdc8158089dd26b6f88c&timestamp=1559817796&nonce=932915789&openid=oCHVx0Y8aHJo9OqhtsMncBtV7GQk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+ERR: signature: d33b9abf09921d38b6a0fdc8158089dd26b6f88c
+ERR: hashcode: d33b9abf09921d38b6a0fdc8158089dd26b6f88c
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0Y8aHJo9OqhtsMncBtV7GQk]]></FromUserName>
+<CreateTime>1559817796</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 164 行.
+ERR: 返回结果是:
+

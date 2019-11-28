@@ -17,7 +17,14 @@ SEER棋牌web端开发文档
 第一步：安装Apache
 yum install httpd # 根据提示，输入Y安装即可成功安装
 systemctl start httpd.service # 启动apache
-systemctl enable apache.service # 设置开机自动启动Apache服务
+systemctl enable httpd.service # 设置开机自动启动Apache服务
+在开机自动开启Apache服务时会报错Failed to execute operation: Access denied，需要操作如下步骤：
+vi /etc/sysconfig/selinux
+SELINUX=disabled
+:wq! # 保存退出,再输入以下两条命令即可
+setenforce 0
+getenforce
+systemctl enable httpd.service # 设置开机自动启动Apache服务
 systemctl restart httpd.service # 重启apache服务
 第二步：配置Apache
 vi /etc/httpd/conf/httpd.conf #编辑文件
@@ -43,7 +50,7 @@ wget http://repo.mysql.com/mysql-community-release-el6-5.noarch.rpm # 若提示w
 rpm -ivh mysql-community-release-el6-5.noarch.rpm # 这个rpm还不是mysql的安装文件，只是两个yum源文件，执行后，在/etc/yum.repos.d/ 这个目录下多出mysql-community-source.repo和mysql-community.repo
 yum repolist all | grep mysql # 可以用yum repolist mysql这个命令查看一下是否已经有mysql可安装文件
 yum install mysql-community-server # 6.安装mysql 服务器命令（一路yes）即可
-systemctl start mysql # 启动MySQL服务
+systemctl enable mysqld.service # 启动MySQL服务
 mysql -u root # 输入这个命令即可进入MySQL数据库，刚开始安装好的MySQL5.6的密码是空，提示输入password时，直接点击键盘回车键即可，进入MySQL数据库后输入以下三条命令就可以成功修改MySQL服务登陆密码了
 1.use mysql;
 2.update user set password=PASSWORD("这里输入root用户密码") where User='root';
@@ -59,8 +66,14 @@ exit;
 ```
 ### 3.安装并配置php5.6版本;
 ```
-rpm -Uvh http://mirror.webtatic.com/yum/el6/latest.rpm
-yum install php56w.x86_64 php56w-cli.x86_64 php56w-common.x86_64 php56w-gd.x86_64 php56w-ldap.x86_64 php56w-mbstring.x86_64 php56w-mysql.x86_64 php56w-pdo.x86_64 php56w-odbc.x86_64 php56w-xml.x86_64 php56w-xmlrpc.x86_64 php56w-soap.x86_64 # 安装php5.6
+yum remove php.x86_64 php-cli.x86_64 php-common.x86_64 php-gd.x86_64 php-ldap.x86_64 php-mbstring.x86_64 php-mcrypt.x86_64 php-mysql.x86_64 php-pdo.x86_64 # 删除旧php包
+yum install -y epel-release
+wget -O /etc/yum.repos.d/epel.repo http://mirrors.aliyun.com/repo/epel-7.repo # 配置epel源，如果提示未安装wget的话，使用yum install wget命令安装后，再使用本条命令即可
+rpm -ivh http://rpms.famillecollet.com/enterprise/remi-release-7.rpm # 配置remi源
+yum install --enablerepo=remi --enablerepo=remi-php56 php php-opcache php-devel php-mbstring php-mcrypt php-mysqlnd php-phpunit-PHPUnit php-pecl-xdebug php-pecl-xhprof # 安装php5.6.x
+yum install --enablerepo=remi --enablerepo=remi-php56 php-fpm # 安装php-fpm
+systemctl restart php-fpm # 重启php服务
+systemctl restart httpd.service # 重启apache服务，即可
 vi /etc/php.ini # 编辑php配置文件
 date.timezone = PRC # 把前面的分号去掉，改为date.timezone = PRC
 magic_quotes_gpc = On # 打开magic_quotes_gpc来防止SQL注入
@@ -164,6 +177,18 @@ port:数据库端口号 (必填)
 1.首先打开Navicat for MySQL连接到你的服务器
 2.点击右键新建数据库名 *** ，字符集选择utf8mb4 -- UTF-8 Unicode，排序规则选择utf8mb4_0900_ai_ci
 3.再双击选中你刚刚新建的数据库后，再右键选择运行sql文件，选择你seer_gm.sql文件导入即可使用
+```
+
+# 第三部分：微信入口文件
+```
+地址：http://服务器ip/weixin/index.php/admin/Wxx.php
+1.文件中需要改的参数有:
+  1.117行token的参数必须设置为跟微信公众平台的token一致
+  2.21行key参数跟node服务器设置的key参数一致
+  3.22行的iv参数跟node服务器设置的iv参数一致
+  4.20行ip参数改为http://服务器的IP:node服务器端口
+2.首先将weixin文件上传到服务器web目录下，如var/www/html
+3.将文件中weixin/index.php/admin/Wxx.php第123、124的注释关闭掉后，再将http://服务器ip/weixin/index.php/admin/Wxx/wxPuMsg地址填到微信公众平台中，即可配置成功，配置成功后再将文件中weixin/index.php/admin/Wxx.php第123、124的注释打开即可
 ```
 
 GM工具初始登录账号和密码：admin、admin123（该账号和密码可修改）

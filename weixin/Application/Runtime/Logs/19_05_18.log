@@ -1,0 +1,90 @@
+[ 2019-05-18T15:14:18+08:00 ] 140.207.54.77 /tp3.2/index.php/home/wx/wxPuMsg?signature=81f10f450918c58b8f9ff3f61b571ba38ae0483d&timestamp=1558163812&nonce=1929800369&openid=oCHVx0Y8aHJo9OqhtsMncBtV7GQk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+ERR: signature: 81f10f450918c58b8f9ff3f61b571ba38ae0483d
+ERR: hashcode: 81f10f450918c58b8f9ff3f61b571ba38ae0483d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0Y8aHJo9OqhtsMncBtV7GQk]]></FromUserName>
+<CreateTime>1558163802</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2019-05-18T15:14:23+08:00 ] 140.207.54.78 /tp3.2/index.php/home/wx/wxPuMsg?signature=81f10f450918c58b8f9ff3f61b571ba38ae0483d&timestamp=1558163812&nonce=1929800369&openid=oCHVx0Y8aHJo9OqhtsMncBtV7GQk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+ERR: signature: 81f10f450918c58b8f9ff3f61b571ba38ae0483d
+ERR: hashcode: 81f10f450918c58b8f9ff3f61b571ba38ae0483d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0Y8aHJo9OqhtsMncBtV7GQk]]></FromUserName>
+<CreateTime>1558163802</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2019-05-18T15:14:28+08:00 ] 140.207.54.77 /tp3.2/index.php/home/wx/wxPuMsg?signature=81f10f450918c58b8f9ff3f61b571ba38ae0483d&timestamp=1558163812&nonce=1929800369&openid=oCHVx0Y8aHJo9OqhtsMncBtV7GQk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+ERR: signature: 81f10f450918c58b8f9ff3f61b571ba38ae0483d
+ERR: hashcode: 81f10f450918c58b8f9ff3f61b571ba38ae0483d
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0Y8aHJo9OqhtsMncBtV7GQk]]></FromUserName>
+<CreateTime>1558163802</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2019-05-18T15:37:27+08:00 ] 140.207.54.78 /tp3.2/index.php/home/wx/wxPuMsg?signature=0c9c0dbd3111fadb71b32c35a9e29e626fc4de6f&timestamp=1558165231&nonce=320047145&openid=oCHVx0Y8aHJo9OqhtsMncBtV7GQk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+ERR: signature: 0c9c0dbd3111fadb71b32c35a9e29e626fc4de6f
+ERR: hashcode: 0c9c0dbd3111fadb71b32c35a9e29e626fc4de6f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0Y8aHJo9OqhtsMncBtV7GQk]]></FromUserName>
+<CreateTime>1558165231</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420292535</MenuId>
+</xml>
+
+[ 2019-05-18T15:37:50+08:00 ] 140.207.54.77 /tp3.2/index.php/home/wx/wxPuMsg?signature=9dcef058eae5b38786ca67ba42ad74e1c2635009&timestamp=1558165254&nonce=430993130&openid=oCHVx0Y8aHJo9OqhtsMncBtV7GQk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+ERR: signature: 9dcef058eae5b38786ca67ba42ad74e1c2635009
+ERR: hashcode: 9dcef058eae5b38786ca67ba42ad74e1c2635009
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0Y8aHJo9OqhtsMncBtV7GQk]]></FromUserName>
+<CreateTime>1558165254</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[下载]]></Content>
+<MsgId>22307562443699098</MsgId>
+</xml>
+ERR: Think\Controller:receiveText方法不存在！
+

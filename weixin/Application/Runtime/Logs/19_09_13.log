@@ -1,0 +1,36 @@
+[ 2019-09-13T22:21:35+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+ERR: 数据为:{"uid":100358,"header_url":"http://39.98.241.250/header/Public/upload/header/100358.png"}
+ERR: uid为:100358
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100358.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000559s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100358.png' )  [ RunTime:0.000360s ]
+ERR: json数据为:{"uid":100358,"url":"http:\/\/39.98.241.250\/code8\/100358.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2019-09-13T22:26:03+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+ERR: 数据为:{"uid":100358,"header_url":"http://39.98.241.250/header/Public/upload/header/100358.png"}
+ERR: uid为:100358
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100358.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000601s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100358.png' )  [ RunTime:0.000386s ]
+ERR: json数据为:{"uid":100358,"url":"http:\/\/39.98.241.250\/code8\/100358.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+

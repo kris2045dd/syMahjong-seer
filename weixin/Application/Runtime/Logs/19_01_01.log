@@ -1,0 +1,78 @@
+[ 2019-01-01T12:10:35+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=a1817a8a3d6f00684d71fbe947a483590602ab55&timestamp=1545465655&nonce=1547900743&openid=o2rZm6PMNo-a7axU3udL6kXCzBLY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: a1817a8a3d6f00684d71fbe947a483590602ab55
+ERR: hashcode: a1817a8a3d6f00684d71fbe947a483590602ab55
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6PMNo-a7axU3udL6kXCzBLY]]></FromUserName>
+<CreateTime>1545465655</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6PMNo-a7axU3udL6kXCzBLY
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2019-01-01T12:11:08+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=0ffe2f2b7b17169bd048d396ae475d60c7869357&timestamp=1545465688&nonce=575154868&openid=o2rZm6PMNo-a7axU3udL6kXCzBLY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+ERR: signature: 0ffe2f2b7b17169bd048d396ae475d60c7869357
+ERR: hashcode: 0ffe2f2b7b17169bd048d396ae475d60c7869357
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6PMNo-a7axU3udL6kXCzBLY]]></FromUserName>
+<CreateTime>1545465688</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6PMNo-a7axU3udL6kXCzBLY
+ERR: 得到getUnionId为:oyGzF0wLqzH320uDpXOhx9EfVpsg
+ERR: 得到nickname微信名称为:''Lincie 
+ERR: 返回结果是:
+
+[ 2019-01-01T10:26:11+08:00 ] 123.151.77.48 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000424s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000512s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100060.png' )  [ RunTime:0.000328s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100060,'http://thirdwx.qlogo.cn/mmopen/vi_32/htKEZgKI4pMC1sBdhoBictshCzuR1j7rQaficmhY4CHzvbBOiclt3fSHBkibuFVDWX7NVaPOxRrdKTIhjlY23LP5tQ/132','100060.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100060.png') [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000155s ]
+
+[ 2019-01-01T10:29:34+08:00 ] 123.151.77.48 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000434s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000510s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100060.png' )  [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+

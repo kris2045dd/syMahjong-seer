@@ -1,0 +1,338 @@
+[ 2018-08-23T09:35:46+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000189s ]
+
+[ 2018-08-23T09:50:28+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000179s ]
+
+[ 2018-08-23T09:59:46+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000224s ]
+
+[ 2018-08-23T10:05:45+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000224s ]
+
+[ 2018-08-23T10:06:38+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000233s ]
+
+[ 2018-08-23T10:15:51+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: expires /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 76 行.
+NOTIC: [2] fopen(data/access_token.json): failed to open stream: Permission denied /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 81 行.
+NOTIC: [2] fwrite() expects parameter 1 to be resource, boolean given /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 82 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, boolean given /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 83 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000179s ]
+
+[ 2018-08-23T10:18:55+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: expires /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000215s ]
+
+[ 2018-08-23T10:41:48+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000156s ]
+
+[ 2018-08-23T10:43:54+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000155s ]
+
+[ 2018-08-23T10:44:47+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2018-08-23T10:45:18+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000154s ]
+
+[ 2018-08-23T10:45:53+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000189s ]
+
+[ 2018-08-23T10:47:44+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: expires /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000158s ]
+
+[ 2018-08-23T10:48:04+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2018-08-23T10:52:27+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined index: type /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 155 行.
+NOTIC: [8] Undefined index: id /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 156 行.
+NOTIC: [2] file_get_contents(json/data.json): failed to open stream: No such file or directory /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 161 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 139 行.
+NOTIC: [8] Undefined variable: results /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [8] Undefined variable: result /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2018-08-23T10:52:51+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 155 行.
+NOTIC: [8] Undefined index: expires /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 156 行.
+NOTIC: [2] file_get_contents(json/data.json): failed to open stream: No such file or directory /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 161 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 139 行.
+NOTIC: [8] Undefined variable: results /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [8] Undefined variable: result /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2018-08-23T10:52:53+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 155 行.
+NOTIC: [8] Undefined index: expires /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 156 行.
+NOTIC: [2] file_get_contents(json/data.json): failed to open stream: No such file or directory /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 161 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 139 行.
+NOTIC: [8] Undefined variable: results /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [8] Undefined variable: result /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2018-08-23T10:53:40+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 155 行.
+NOTIC: [8] Undefined index: expires /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 156 行.
+NOTIC: [8] Undefined index: goods /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 139 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 139 行.
+NOTIC: [8] Undefined variable: results /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [8] Undefined variable: result /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000155s ]
+
+[ 2018-08-23T10:53:42+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 155 行.
+NOTIC: [8] Undefined index: expires /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 156 行.
+NOTIC: [8] Undefined index: goods /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 139 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 139 行.
+NOTIC: [8] Undefined variable: results /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 144 行.
+NOTIC: [8] Undefined variable: result /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+
+[ 2018-08-23T10:53:55+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000151s ]
+
+[ 2018-08-23T10:54:48+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/getAccessToken1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000164s ]
+
+[ 2018-08-23T10:55:18+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/testr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000151s ]
+
+[ 2018-08-23T10:55:33+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/testr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2018-08-23T10:58:14+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/createCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000232s ]
+
+[ 2018-08-23T10:58:21+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/createCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000228s ]
+
+[ 2018-08-23T10:58:27+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/createCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000233s ]
+
+[ 2018-08-23T12:00:32+08:00 ] 222.209.233.108 /tp3.2/index.php/home/wx/createCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000183s ]
+

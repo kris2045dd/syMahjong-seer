@@ -1,0 +1,365 @@
+[ 2018-12-17T17:01:41+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=aa0e03f5022c965fee686eeca585c26472b488a5&timestamp=1545037354&nonce=1284634272&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+ERR: signature: aa0e03f5022c965fee686eeca585c26472b488a5
+ERR: hashcode: aa0e03f5022c965fee686eeca585c26472b488a5
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545037354</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2018-12-17T17:10:31+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=a4cba66c9feb51fe87f9f1b1c1798438088b349b&timestamp=1545037883&nonce=1423685731&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+ERR: signature: a4cba66c9feb51fe87f9f1b1c1798438088b349b
+ERR: hashcode: a4cba66c9feb51fe87f9f1b1c1798438088b349b
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545037883</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000161s ]
+
+[ 2018-12-17T17:10:44+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=72c018906a3325deb3baf661cd662e8c432e5a2f&timestamp=1545037896&nonce=533102187&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000155s ]
+ERR: signature: 72c018906a3325deb3baf661cd662e8c432e5a2f
+ERR: hashcode: 72c018906a3325deb3baf661cd662e8c432e5a2f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545037896</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6635887234820926880</MsgId>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2018-12-17T17:19:37+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=6415bb09758a9c39d27d36d46cf652c47acba8cf&timestamp=1545038428&nonce=258783962&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000164s ]
+ERR: signature: 6415bb09758a9c39d27d36d46cf652c47acba8cf
+ERR: hashcode: 6415bb09758a9c39d27d36d46cf652c47acba8cf
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545038428</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 142 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 370 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 402 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 402 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000195s ]
+
+[ 2018-12-17T17:19:45+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=76bde204ea2d5c50ff305f61f4adfe8a5544e55c&timestamp=1545038437&nonce=178647950&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 76bde204ea2d5c50ff305f61f4adfe8a5544e55c
+ERR: hashcode: 76bde204ea2d5c50ff305f61f4adfe8a5544e55c
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545038437</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 370 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 402 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 402 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2018-12-17T17:20:19+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=ca32214c5f28c6a99758bf9d11ac22299a281446&timestamp=1545038471&nonce=298440465&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000167s ]
+ERR: signature: ca32214c5f28c6a99758bf9d11ac22299a281446
+ERR: hashcode: ca32214c5f28c6a99758bf9d11ac22299a281446
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545038471</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2018-12-17T17:20:43+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=a428c2e8d7747f4ad605cd6c48aafdaa72630215&timestamp=1545038495&nonce=489488471&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000164s ]
+ERR: signature: a428c2e8d7747f4ad605cd6c48aafdaa72630215
+ERR: hashcode: a428c2e8d7747f4ad605cd6c48aafdaa72630215
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545038495</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+
+[ 2018-12-17T17:22:29+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=cebfbb7022c1908b97140374ea6d8e39eb14ea1f&timestamp=1545038601&nonce=1125319479&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000164s ]
+ERR: signature: cebfbb7022c1908b97140374ea6d8e39eb14ea1f
+ERR: hashcode: cebfbb7022c1908b97140374ea6d8e39eb14ea1f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545038601</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6635890262772870561</MsgId>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000167s ]
+
+[ 2018-12-17T17:23:15+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=203aa17d22587b3647aca5c3f3254d20e72a0e84&timestamp=1545038647&nonce=1853131959&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+ERR: signature: 203aa17d22587b3647aca5c3f3254d20e72a0e84
+ERR: hashcode: 203aa17d22587b3647aca5c3f3254d20e72a0e84
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545038647</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000171s ]
+
+[ 2018-12-17T17:23:35+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=cc79941394f90eb151af00bb2b0d611f9474321f&timestamp=1545038668&nonce=554316065&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: cc79941394f90eb151af00bb2b0d611f9474321f
+ERR: hashcode: cc79941394f90eb151af00bb2b0d611f9474321f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545038668</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2018-12-17T17:29:07+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=d5bc535086588fe464bc1f6e9a5135a3b00ae426&timestamp=1545038999&nonce=1574352304&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+ERR: signature: d5bc535086588fe464bc1f6e9a5135a3b00ae426
+ERR: hashcode: d5bc535086588fe464bc1f6e9a5135a3b00ae426
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545038999</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+
+[ 2018-12-17T17:29:26+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=d4457d84697c6aeadfb639179cefd18fb11f8f94&timestamp=1545039018&nonce=302880417&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000165s ]
+ERR: signature: d4457d84697c6aeadfb639179cefd18fb11f8f94
+ERR: hashcode: d4457d84697c6aeadfb639179cefd18fb11f8f94
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545039018</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+[ 2018-12-17T17:31:07+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=9ea036cd5e9dd808486e133ea749cc4081d81092&timestamp=1545039119&nonce=794420635&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 9ea036cd5e9dd808486e133ea749cc4081d81092
+ERR: hashcode: 9ea036cd5e9dd808486e133ea749cc4081d81092
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545039119</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+
+[ 2018-12-17T17:31:24+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=a4e0f1d486222c152f527fbc93e6ba0e623e42e1&timestamp=1545039136&nonce=1824007528&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: a4e0f1d486222c152f527fbc93e6ba0e623e42e1
+ERR: hashcode: a4e0f1d486222c152f527fbc93e6ba0e623e42e1
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545039136</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+[ 2018-12-17T17:37:11+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=c3f6842b7ce083e7877f58d4e7f803d05b5915f8&timestamp=1545039483&nonce=1573352341&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: c3f6842b7ce083e7877f58d4e7f803d05b5915f8
+ERR: hashcode: c3f6842b7ce083e7877f58d4e7f803d05b5915f8
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545039483</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+
+[ 2018-12-17T17:37:30+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=0a5efccdf52715a858088b87b9d51ea504ad4f40&timestamp=1545039502&nonce=134886497&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: 0a5efccdf52715a858088b87b9d51ea504ad4f40
+ERR: hashcode: 0a5efccdf52715a858088b87b9d51ea504ad4f40
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545039502</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+[ 2018-12-17T17:41:03+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=3c7afaa9b69be0daaaf8651489b5e6bb6843653e&timestamp=1545039715&nonce=636409788&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 3c7afaa9b69be0daaaf8651489b5e6bb6843653e
+ERR: hashcode: 3c7afaa9b69be0daaaf8651489b5e6bb6843653e
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545039715</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+
+[ 2018-12-17T17:41:20+08:00 ] 140.207.54.76 /tp3.2/index.php/home/wx/wxPuMsg?signature=3767b3c29778fac189330488f896262df3fdc984&timestamp=1545039732&nonce=1950625142&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000164s ]
+ERR: signature: 3767b3c29778fac189330488f896262df3fdc984
+ERR: hashcode: 3767b3c29778fac189330488f896262df3fdc984
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545039732</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+[ 2018-12-17T17:41:54+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=5eb25c76ad7d85f50b4ff5d0f030870268e85ea3&timestamp=1545039766&nonce=673456152&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 5eb25c76ad7d85f50b4ff5d0f030870268e85ea3
+ERR: hashcode: 5eb25c76ad7d85f50b4ff5d0f030870268e85ea3
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1545039766</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 149 行.
+

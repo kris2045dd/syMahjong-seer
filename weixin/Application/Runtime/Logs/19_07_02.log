@@ -1,0 +1,18 @@
+[ 2019-07-02T16:38:52+08:00 ] 171.88.42.38 /tp3.2/index.php/home/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000829s ]
+SQL: SELECT * FROM `wechat` ORDER BY variable desc  [ RunTime:0.000322s ]
+ERR: 数据为:{"uid":100054,"header_url":""}
+ERR: uid为:100054
+SQL: INSERT INTO `wechat` (`uid`,`ticket`,`variable`,`time`) VALUES (100054,'gQHN8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyY1d4T2hlOFJkTmgxMDAwMDAwN0cAAgQKGRtdAwQAAAAA',29,'2019-07-02 16:38:47') [ RunTime:0.000428s ]
+ERR: json数据为:{"uid":100054,"ticket":"gQHN8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyY1d4T2hlOFJkTmgxMDAwMDAwN0cAAgQKGRtdAwQAAAAA","variable":29,"url":"http:\/\/caiyunyigou.com\/tp3.2\/100054.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+

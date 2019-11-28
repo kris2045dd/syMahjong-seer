@@ -1,0 +1,24 @@
+[ 2019-07-21T01:04:11+08:00 ] 140.207.54.77 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=50371ed23994ac2cece26b1bba9f10175523434c&timestamp=1563642251&nonce=77242679&openid=o2rZm6HMYPuyPtd7NHD_sE9GGCgk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+ERR: signature: 50371ed23994ac2cece26b1bba9f10175523434c
+ERR: hashcode: 50371ed23994ac2cece26b1bba9f10175523434c
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6HMYPuyPtd7NHD_sE9GGCgk]]></FromUserName>
+<CreateTime>1563642251</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6HMYPuyPtd7NHD_sE9GGCgk
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 229 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 165 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 167 行.
+ERR: 得到nickname微信名称为:
+

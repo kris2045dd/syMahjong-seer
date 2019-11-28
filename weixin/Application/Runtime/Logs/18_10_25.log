@@ -1,0 +1,28 @@
+[ 2018-10-25T15:07:01+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=6c5d479bdc0fc653ebd90684d688a571ca360bd4&timestamp=1540451393&nonce=325398360&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+ERR: signature: 6c5d479bdc0fc653ebd90684d688a571ca360bd4
+ERR: hashcode: 6c5d479bdc0fc653ebd90684d688a571ca360bd4
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1540451393</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420128358</MenuId>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000586s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000342s ]
+ERR: olSdR1vtJ3547z3T7q0pXbYH6gB4
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000187s ]
+

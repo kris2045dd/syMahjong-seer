@@ -1,0 +1,331 @@
+[ 2019-04-16T15:05:10+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=943b601a903133b7622348c9d72e930a96c4b7ac&timestamp=1555398452&nonce=1451129478&openid=o2rZm6P2dumWLS9i17wqkZKl_rxc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+ERR: signature: 943b601a903133b7622348c9d72e930a96c4b7ac
+ERR: hashcode: 943b601a903133b7622348c9d72e930a96c4b7ac
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6P2dumWLS9i17wqkZKl_rxc]]></FromUserName>
+<CreateTime>1555398452</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6P2dumWLS9i17wqkZKl_rxc
+ERR: 得到getUnionId为:oyGzF0_phRYgvQm7Rsce1GNUSHjQ
+ERR: 得到nickname微信名称为:沦落少终为王*
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-16T15:05:12+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=68fcf173c96e73b45ec201f50bcf261e1ea3c551&timestamp=1555398455&nonce=887624986&openid=o2rZm6P2dumWLS9i17wqkZKl_rxc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+ERR: signature: 68fcf173c96e73b45ec201f50bcf261e1ea3c551
+ERR: hashcode: 68fcf173c96e73b45ec201f50bcf261e1ea3c551
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6P2dumWLS9i17wqkZKl_rxc]]></FromUserName>
+<CreateTime>1555398455</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6P2dumWLS9i17wqkZKl_rxc
+ERR: 得到getUnionId为:oyGzF0_phRYgvQm7Rsce1GNUSHjQ
+ERR: 得到nickname微信名称为:沦落少终为王*
+
+[ 2019-04-16T15:09:02+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=9b08bf5df85a472da368c2998cd52ba67e1c1493&timestamp=1555398685&nonce=1574133264&openid=o2rZm6BDAVHKRApS3fQav8l0qO60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+ERR: signature: 9b08bf5df85a472da368c2998cd52ba67e1c1493
+ERR: hashcode: 9b08bf5df85a472da368c2998cd52ba67e1c1493
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6BDAVHKRApS3fQav8l0qO60]]></FromUserName>
+<CreateTime>1555398685</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6BDAVHKRApS3fQav8l0qO60
+ERR: 得到getUnionId为:oyGzF07WMNSiwgMsU5QjhSrJ6mo0
+ERR: 得到nickname微信名称为:lrb
+
+[ 2019-04-16T15:09:09+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=4a68667d52cf13590272edae50c231ff860570e5&timestamp=1555398692&nonce=435017050&openid=o2rZm6BDAVHKRApS3fQav8l0qO60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+ERR: signature: 4a68667d52cf13590272edae50c231ff860570e5
+ERR: hashcode: 4a68667d52cf13590272edae50c231ff860570e5
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6BDAVHKRApS3fQav8l0qO60]]></FromUserName>
+<CreateTime>1555398682</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6BDAVHKRApS3fQav8l0qO60
+ERR: 得到getUnionId为:oyGzF07WMNSiwgMsU5QjhSrJ6mo0
+ERR: 得到nickname微信名称为:lrb
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-16T15:09:46+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=4efbc6de111b46cae9d6e18f884bb17b576b689a&timestamp=1555398728&nonce=190895523&openid=o2rZm6BDAVHKRApS3fQav8l0qO60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+ERR: signature: 4efbc6de111b46cae9d6e18f884bb17b576b689a
+ERR: hashcode: 4efbc6de111b46cae9d6e18f884bb17b576b689a
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6BDAVHKRApS3fQav8l0qO60]]></FromUserName>
+<CreateTime>1555398728</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6BDAVHKRApS3fQav8l0qO60
+ERR: 得到getUnionId为:oyGzF07WMNSiwgMsU5QjhSrJ6mo0
+ERR: 得到nickname微信名称为:lrb
+
+[ 2019-04-16T15:10:24+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=9a83fbb84e0dce1d76eab9ea19f90ced09314b97&timestamp=1555398767&nonce=1631158594&openid=o2rZm6BDAVHKRApS3fQav8l0qO60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+ERR: signature: 9a83fbb84e0dce1d76eab9ea19f90ced09314b97
+ERR: hashcode: 9a83fbb84e0dce1d76eab9ea19f90ced09314b97
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6BDAVHKRApS3fQav8l0qO60]]></FromUserName>
+<CreateTime>1555398767</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6BDAVHKRApS3fQav8l0qO60
+ERR: 得到getUnionId为:oyGzF07WMNSiwgMsU5QjhSrJ6mo0
+ERR: 得到nickname微信名称为:lrb
+
+[ 2019-04-16T15:19:18+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=ad537004a752c63d8d23a409c93843d6c21b19ff&timestamp=1555399301&nonce=185663631&openid=oCHVx0ZISTtGdM2WfAZXd7GmXr-Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+ERR: signature: ad537004a752c63d8d23a409c93843d6c21b19ff
+ERR: hashcode: ad537004a752c63d8d23a409c93843d6c21b19ff
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0ZISTtGdM2WfAZXd7GmXr-Y]]></FromUserName>
+<CreateTime>1555399301</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420292535</MenuId>
+</xml>
+
+[ 2019-04-16T15:19:44+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=e6acb4411b1a1419a89fe57a4d844052f0e9ccbf&timestamp=1555399297&nonce=599801390&openid=oCHVx0ZISTtGdM2WfAZXd7GmXr-Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+ERR: signature: e6acb4411b1a1419a89fe57a4d844052f0e9ccbf
+ERR: hashcode: e6acb4411b1a1419a89fe57a4d844052f0e9ccbf
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0ZISTtGdM2WfAZXd7GmXr-Y]]></FromUserName>
+<CreateTime>1555399297</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2019-04-16T15:19:49+08:00 ] 140.207.54.80 /tp3.2/index.php/home/wx/wxPuMsg?signature=e6acb4411b1a1419a89fe57a4d844052f0e9ccbf&timestamp=1555399297&nonce=599801390&openid=oCHVx0ZISTtGdM2WfAZXd7GmXr-Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+ERR: signature: e6acb4411b1a1419a89fe57a4d844052f0e9ccbf
+ERR: hashcode: e6acb4411b1a1419a89fe57a4d844052f0e9ccbf
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0ZISTtGdM2WfAZXd7GmXr-Y]]></FromUserName>
+<CreateTime>1555399297</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2019-04-16T15:19:54+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=e6acb4411b1a1419a89fe57a4d844052f0e9ccbf&timestamp=1555399297&nonce=599801390&openid=oCHVx0ZISTtGdM2WfAZXd7GmXr-Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+ERR: signature: e6acb4411b1a1419a89fe57a4d844052f0e9ccbf
+ERR: hashcode: e6acb4411b1a1419a89fe57a4d844052f0e9ccbf
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0ZISTtGdM2WfAZXd7GmXr-Y]]></FromUserName>
+<CreateTime>1555399297</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: 返回结果是:
+
+[ 2019-04-16T15:20:28+08:00 ] 183.3.234.60 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.001785s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.001451s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2019-04-16T15:21:24+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=a3b89c268983109aab222ef1018610f059619733&timestamp=1555399427&nonce=1022039154&openid=oCHVx0ZISTtGdM2WfAZXd7GmXr-Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+ERR: signature: a3b89c268983109aab222ef1018610f059619733
+ERR: hashcode: a3b89c268983109aab222ef1018610f059619733
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0ZISTtGdM2WfAZXd7GmXr-Y]]></FromUserName>
+<CreateTime>1555399427</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420292535</MenuId>
+</xml>
+
+[ 2019-04-16T15:28:38+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=764b26d20294ac367631d521cb732a54ed18b68e&timestamp=1555399861&nonce=25284492&openid=oCHVx0ZISTtGdM2WfAZXd7GmXr-Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+ERR: signature: 764b26d20294ac367631d521cb732a54ed18b68e
+ERR: hashcode: 764b26d20294ac367631d521cb732a54ed18b68e
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0ZISTtGdM2WfAZXd7GmXr-Y]]></FromUserName>
+<CreateTime>1555399861</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420292535</MenuId>
+</xml>
+
+[ 2019-04-16T17:28:16+08:00 ] 183.3.234.62 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.001392s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.001199s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100001.png' )  [ RunTime:0.000329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2019-04-16T18:15:20+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=2e7b406be8a5956ae0ffd8407c547a7118908a6f&timestamp=1555409863&nonce=912870835&openid=o2rZm6DdFxY0QDp-_7zsfZj5P3fM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+ERR: signature: 2e7b406be8a5956ae0ffd8407c547a7118908a6f
+ERR: hashcode: 2e7b406be8a5956ae0ffd8407c547a7118908a6f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6DdFxY0QDp-_7zsfZj5P3fM]]></FromUserName>
+<CreateTime>1555409863</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6DdFxY0QDp-_7zsfZj5P3fM
+ERR: 得到getUnionId为:oyGzF05g9Lq-kNRr8Rr1fzVTh634
+ERR: 得到nickname微信名称为:爱拼才会赢
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-16T19:36:21+08:00 ] 140.207.54.79 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=9cb70cf7029388efc0cd3968208d5ae6dc19e1cf&timestamp=1555414724&nonce=52854132&openid=o2rZm6MEfLSEolGro2Cm2u4o3kuE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+ERR: signature: 9cb70cf7029388efc0cd3968208d5ae6dc19e1cf
+ERR: hashcode: 9cb70cf7029388efc0cd3968208d5ae6dc19e1cf
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6MEfLSEolGro2Cm2u4o3kuE]]></FromUserName>
+<CreateTime>1555414724</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6MEfLSEolGro2Cm2u4o3kuE
+ERR: 得到getUnionId为:oyGzF00vSFR2ftaDkgsvuxHzhjrw
+ERR: 得到nickname微信名称为:246李倩
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-04-16T19:36:26+08:00 ] 140.207.54.80 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=d645a00516ad18c89636fa7256447a1fb7602f89&timestamp=1555414729&nonce=1623767049&openid=o2rZm6MEfLSEolGro2Cm2u4o3kuE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+ERR: signature: d645a00516ad18c89636fa7256447a1fb7602f89
+ERR: hashcode: d645a00516ad18c89636fa7256447a1fb7602f89
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6MEfLSEolGro2Cm2u4o3kuE]]></FromUserName>
+<CreateTime>1555414729</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6MEfLSEolGro2Cm2u4o3kuE
+ERR: 得到getUnionId为:oyGzF00vSFR2ftaDkgsvuxHzhjrw
+ERR: 得到nickname微信名称为:246李倩
+

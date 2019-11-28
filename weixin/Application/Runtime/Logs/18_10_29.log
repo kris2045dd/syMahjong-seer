@@ -1,0 +1,110 @@
+[ 2018-10-29T12:25:06+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=205173c1e48114e3ba441983ffe00fbca5b27d34&timestamp=1540787283&nonce=2097074338&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+ERR: signature: 205173c1e48114e3ba441983ffe00fbca5b27d34
+ERR: hashcode: 205173c1e48114e3ba441983ffe00fbca5b27d34
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1540787283</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.soso.com/]]></EventKey>
+<MenuId>420128358</MenuId>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000644s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000292s ]
+ERR: olSdR1kBVE2O0e6mnHU6JTGWeQcU
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001225s ]
+
+[ 2018-10-29T12:25:55+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=352e82570701e1531a65374986e3f58985487922&timestamp=1540787333&nonce=204043287&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+ERR: signature: 352e82570701e1531a65374986e3f58985487922
+ERR: hashcode: 352e82570701e1531a65374986e3f58985487922
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1540787333</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6617631205746297919</MsgId>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000645s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000329s ]
+ERR: olSdR1kBVE2O0e6mnHU6JTGWeQcU
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2018-10-29T12:26:18+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=8c8df9a779e0b034ca24675a988d7254ea359d2f&timestamp=1540787356&nonce=261985207&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+ERR: signature: 8c8df9a779e0b034ca24675a988d7254ea359d2f
+ERR: hashcode: 8c8df9a779e0b034ca24675a988d7254ea359d2f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1540787356</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 134 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000607s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000327s ]
+ERR: 
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2018-10-29T12:27:25+08:00 ] 140.207.54.75 /tp3.2/index.php/home/wx/wxPuMsg?signature=e2739acae0c6f96f8221f9c849690f9e708ee069&timestamp=1540787423&nonce=1608024471&openid=oCHVx0dU_1ZmPItY_2ykaRCJ_O9A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 89 行.
+ERR: signature: e2739acae0c6f96f8221f9c849690f9e708ee069
+ERR: hashcode: e2739acae0c6f96f8221f9c849690f9e708ee069
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0dU_1ZmPItY_2ykaRCJ_O9A]]></FromUserName>
+<CreateTime>1540787423</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wechat` [ RunTime:0.000605s ]
+SQL: SELECT * FROM `wechat` WHERE ( ticket='' )  [ RunTime:0.000353s ]
+ERR: olSdR1kBVE2O0e6mnHU6JTGWeQcU
+ERR: {"code:":200,"msg":"success"}
+ERR: success
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000201s ]
+

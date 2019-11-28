@@ -1,0 +1,42 @@
+[ 2019-02-09T20:02:18+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=863894d8a6948ca7fef0bb058f27deb1bd5c9364&timestamp=1549713797&nonce=1332792628&openid=o2rZm6FaAqW2heYK_AnuAM4vDkyA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+ERR: signature: 863894d8a6948ca7fef0bb058f27deb1bd5c9364
+ERR: hashcode: 863894d8a6948ca7fef0bb058f27deb1bd5c9364
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6FaAqW2heYK_AnuAM4vDkyA]]></FromUserName>
+<CreateTime>1549713797</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6FaAqW2heYK_AnuAM4vDkyA
+ERR: 得到getUnionId为:oyGzF03pKggmYeXiBEep4sKSXUF8
+ERR: 得到nickname微信名称为:钱立强
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2019-02-09T20:02:28+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=99e57829c360cc64d9a5f462c1aff9bf39bdd487&timestamp=1549713807&nonce=2045640809&openid=o2rZm6FaAqW2heYK_AnuAM4vDkyA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+ERR: signature: 99e57829c360cc64d9a5f462c1aff9bf39bdd487
+ERR: hashcode: 99e57829c360cc64d9a5f462c1aff9bf39bdd487
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6FaAqW2heYK_AnuAM4vDkyA]]></FromUserName>
+<CreateTime>1549713807</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6FaAqW2heYK_AnuAM4vDkyA
+ERR: 得到getUnionId为:oyGzF03pKggmYeXiBEep4sKSXUF8
+ERR: 得到nickname微信名称为:钱立强
+

@@ -1,0 +1,41 @@
+[ 2019-09-06T02:45:46+08:00 ] 223.166.222.112 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=41cdff16c1d8c3a4ee711b22462bc8129be10808&timestamp=1567680356&nonce=879770977&openid=o2rZm6LmXdVsoAgZSVhSK8COWUCE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+ERR: signature: 41cdff16c1d8c3a4ee711b22462bc8129be10808
+ERR: hashcode: 41cdff16c1d8c3a4ee711b22462bc8129be10808
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6LmXdVsoAgZSVhSK8COWUCE]]></FromUserName>
+<CreateTime>1567680356</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6LmXdVsoAgZSVhSK8COWUCE
+NOTIC: [8] Undefined index: access_token /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 229 行.
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 165 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 167 行.
+ERR: 得到nickname微信名称为:
+
+[ 2019-09-06T06:09:49+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+ERR: 数据为:{"uid":100260,"header_url":"http://39.98.241.250/header/Public/upload/header/100260.png"}
+ERR: uid为:100260
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100260.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000557s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100260.png' )  [ RunTime:0.000377s ]
+ERR: json数据为:{"uid":100260,"url":"http:\/\/39.98.241.250\/code8\/100260.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+

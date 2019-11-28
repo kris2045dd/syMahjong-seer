@@ -1,0 +1,18 @@
+[ 2019-01-23T20:37:48+08:00 ] 117.136.70.34 /tp3.2/index.php/home/Wx3/saveImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header1` [ RunTime:0.000477s ]
+ERR: 1146:Table 'yuebao.header1' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `header1`
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000530s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100076.png' )  [ RunTime:0.000348s ]
+SQL: INSERT INTO `header` (`uid`,`url`,`pic`,`save_url`) VALUES (100076,'http://thirdwx.qlogo.cn/mmopen/vi_32/egApicxPAjbnGZntv50E64pAiaicFYYNBLoXlibvdwrO81S0zxBuibiaqemFnWYIpuEialk8QdIbsCpRzz0BG56giaNHvg/132','100076.png','http://caiyunyigou.com/tp3.2/Public/upload/header1/100076.png') [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000179s ]
+

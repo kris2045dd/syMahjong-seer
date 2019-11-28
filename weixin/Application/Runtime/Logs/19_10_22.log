@@ -1,0 +1,31 @@
+[ 2019-10-22T19:14:19+08:00 ] 39.98.241.250 /tp3.2/index.php/admin/wx/getTicket
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+ERR: 数据为:{"uid":100017,"header_url":"http://39.98.241.250/header/Public/upload/header/100017.png"}
+ERR: uid为:100017
+ERR: 头像地址为:http://39.98.241.250/header/Public/upload/header/100017.png
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/tp3.2/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `header` [ RunTime:0.000570s ]
+SQL: SELECT * FROM `header` WHERE ( pic='100017.png' )  [ RunTime:0.000380s ]
+ERR: json数据为:{"uid":100017,"url":"http:\/\/39.98.241.250\/code8\/100017.png"}
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2019-10-22T20:00:37+08:00 ] 223.166.222.111 /tp3.2/index.php/admin/Wxx/wxPuMsg?signature=562435881122f1aa11c2bee4f612893530504a0c&echostr=8378266266355367801&timestamp=1571716905&nonce=637976187
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+ERR: signature: 562435881122f1aa11c2bee4f612893530504a0c
+ERR: hashcode: 0431e61f349699c6c4c895fa7912bfcd4e81dad3
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+

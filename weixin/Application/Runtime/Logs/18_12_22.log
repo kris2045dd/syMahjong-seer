@@ -1,0 +1,215 @@
+[ 2018-12-22T11:43:17+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=8ccdd7bc9d679db91c9863799a7bc99839f3d392&timestamp=1545450255&nonce=2035213759&openid=o2rZm6G3ouSLuXvozMY4Cq8PyIRI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000156s ]
+ERR: signature: 8ccdd7bc9d679db91c9863799a7bc99839f3d392
+ERR: hashcode: 8ccdd7bc9d679db91c9863799a7bc99839f3d392
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G3ouSLuXvozMY4Cq8PyIRI]]></FromUserName>
+<CreateTime>1545450255</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://download.rqq.cn]]></EventKey>
+<MenuId>429662353</MenuId>
+</xml>
+ERR: FromUserName: o2rZm6G3ouSLuXvozMY4Cq8PyIRI
+ERR: 得到getUnionId为:oyGzF09pxnBWg1q4A-L61C_hfq9w
+ERR: 得到nickname微信名称为:Ye Dan
+
+[ 2018-12-22T13:38:38+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=8b9a307e39dd31b75f1f0a90f921f46656ab5033&timestamp=1545457177&nonce=577173694&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: 8b9a307e39dd31b75f1f0a90f921f46656ab5033
+ERR: hashcode: 8b9a307e39dd31b75f1f0a90f921f46656ab5033
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545457177</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2018-12-22T13:41:19+08:00 ] 140.207.54.76 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=d714cd8dd8dd2cfe1f9174f7654fc31d11a0eaa7&timestamp=1545457337&nonce=1401162295&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: d714cd8dd8dd2cfe1f9174f7654fc31d11a0eaa7
+ERR: hashcode: d714cd8dd8dd2cfe1f9174f7654fc31d11a0eaa7
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545457337</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+ERR: 得到nickname微信名称为:白鳥の思考に
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2018-12-22T13:43:35+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=b5c7ee68406aa7380f595ff03d16a96750072e09&timestamp=1545457473&nonce=1072743701&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: b5c7ee68406aa7380f595ff03d16a96750072e09
+ERR: hashcode: b5c7ee68406aa7380f595ff03d16a96750072e09
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545457473</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2018-12-22T13:44:16+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=b6f81659140a3e8e9f56a53c72662a8d5b64cc4f&timestamp=1545457514&nonce=1807969019&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: signature: b6f81659140a3e8e9f56a53c72662a8d5b64cc4f
+ERR: hashcode: b6f81659140a3e8e9f56a53c72662a8d5b64cc4f
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545457514</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+ERR: 得到nickname微信名称为:白鳥の思考に
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2018-12-22T14:00:04+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=8f2f05633dc7f2c073003a58fb14f755f2931fcb&timestamp=1545458457&nonce=1137811889&openid=o2rZm6PMNo-a7axU3udL6kXCzBLY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: signature: 8f2f05633dc7f2c073003a58fb14f755f2931fcb
+ERR: hashcode: 8f2f05633dc7f2c073003a58fb14f755f2931fcb
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6PMNo-a7axU3udL6kXCzBLY]]></FromUserName>
+<CreateTime>1545458457</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6PMNo-a7axU3udL6kXCzBLY
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2018-12-22T14:00:04+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=8f2f05633dc7f2c073003a58fb14f755f2931fcb&timestamp=1545458457&nonce=1137811889&openid=o2rZm6PMNo-a7axU3udL6kXCzBLY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: signature: 8f2f05633dc7f2c073003a58fb14f755f2931fcb
+ERR: hashcode: 8f2f05633dc7f2c073003a58fb14f755f2931fcb
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6PMNo-a7axU3udL6kXCzBLY]]></FromUserName>
+<CreateTime>1545458457</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6PMNo-a7axU3udL6kXCzBLY
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2018-12-22T14:34:03+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=18b0908a930fcba85b67f5114f9a3d36f9df7c46&timestamp=1545460502&nonce=471916791&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: signature: 18b0908a930fcba85b67f5114f9a3d36f9df7c46
+ERR: hashcode: 18b0908a930fcba85b67f5114f9a3d36f9df7c46
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545460502</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+NOTIC: [8] Undefined index: unionid /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 164 行.
+ERR: 得到getUnionId为:
+NOTIC: [8] Undefined index: nickname /var/www/html/tp3.2/Application/Admin/Controller/WxController.class.php 第 166 行.
+ERR: 得到nickname微信名称为:
+
+[ 2018-12-22T14:34:34+08:00 ] 223.166.222.11 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=ad25bdef6b8f0019a11425a32efc460d81a25333&timestamp=1545460532&nonce=275277465&openid=o2rZm6PMNo-a7axU3udL6kXCzBLY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: signature: ad25bdef6b8f0019a11425a32efc460d81a25333
+ERR: hashcode: ad25bdef6b8f0019a11425a32efc460d81a25333
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6PMNo-a7axU3udL6kXCzBLY]]></FromUserName>
+<CreateTime>1545460532</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6PMNo-a7axU3udL6kXCzBLY
+ERR: 得到getUnionId为:oyGzF0wLqzH320uDpXOhx9EfVpsg
+ERR: 得到nickname微信名称为:''Lincie 
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+
+[ 2018-12-22T14:34:46+08:00 ] 140.207.54.75 /tp3.2/index.php/admin/Wx/wxPuMsg?signature=84dd52f8cec26592d337f18d9c66126cf1f8b729&timestamp=1545460544&nonce=1042242206&openid=o2rZm6G17g2FR7pI13A9Ip6980jk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: signature: 84dd52f8cec26592d337f18d9c66126cf1f8b729
+ERR: hashcode: 84dd52f8cec26592d337f18d9c66126cf1f8b729
+ERR: file_in: <xml><ToUserName><![CDATA[gh_56497a3de309]]></ToUserName>
+<FromUserName><![CDATA[o2rZm6G17g2FR7pI13A9Ip6980jk]]></FromUserName>
+<CreateTime>1545460544</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERR: FromUserName: o2rZm6G17g2FR7pI13A9Ip6980jk
+ERR: 得到getUnionId为:oyGzF0-YvEAWxUCcfzIRLOaxPimk
+ERR: 得到nickname微信名称为:白鳥の思考に
+ERR: 返回结果是:{"code:":200,"msg":"success"}
+

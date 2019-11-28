@@ -1,0 +1,27 @@
+[ 2018-08-30T16:51:41+08:00 ] 140.207.54.79 /tp3.2/index.php/home/wx/wxPuMsg?signature=85391fc8714d7ebdacf5b40037b108ce76e8ed89&timestamp=1535619202&nonce=253542714&openid=oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 20 行.
+ERR: signature: 85391fc8714d7ebdacf5b40037b108ce76e8ed89
+ERR: hashcode: 85391fc8714d7ebdacf5b40037b108ce76e8ed89
+ERR: file_in: <xml><ToUserName><![CDATA[gh_d107896df1a7]]></ToUserName>
+<FromUserName><![CDATA[oCHVx0UIwTUeoe4rkPm5cHZwKh-I]]></FromUserName>
+<CreateTime>1535619201</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>30.696194</Location_X>
+<Location_Y>103.830200</Location_Y>
+<Scale>16</Scale>
+<Label><![CDATA[成都市第五人民医院门诊(温江区)]]></Label>
+<MsgId>6595434247824127959</MsgId>
+</xml>
+NOTIC: [8] Undefined index: ticket /var/www/html/tp3.2/Application/Home/Controller/WxController.class.php 第 188 行.
+ERR: FromUserName: oCHVx0UIwTUeoe4rkPm5cHZwKh-I
+ERR: EventKey: 
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001240s ]
+
