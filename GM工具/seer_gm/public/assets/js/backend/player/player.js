@@ -42,12 +42,6 @@ define(['jquery', 'bootstrap', 'backend', 'table', 'form'], function ($, undefin
                                 }
                             ]
                         },
-                        {field: 'profit', title: __('自己玩游戏产生的收益'),operate: 'LIKE'},
-                        {field: 'pre_profit', title: __('上级代理的收益'),operate: 'LIKE'},
-                        {field: 'pre_pre_profit', title: __('上上级代理收益'),operate: 'LIKE'},
-                        {field: 'oneday_profit', title: __('每天给公司产生的收益'),operate: 'LIKE'},
-                        {field: 'week_profit', title: __('每周产生的收益'),operate: 'LIKE'},
-                        {field: 'all_profit', title: __('给公司产生的总收益'),operate: 'LIKE'},
                         {field: 'node_profit', title: __('节点奖励'),operate: 'LIKE'},
                         {field: 'withdraw_record', title: __('提现记录'),operate: 'LIKE'},
                         {field: 'head_pic', title: __('微信头像'), formatter: Table.api.formatter.image, operate: false},
