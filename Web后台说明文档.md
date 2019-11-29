@@ -50,7 +50,7 @@ wget http://repo.mysql.com/mysql-community-release-el6-5.noarch.rpm # 若提示w
 rpm -ivh mysql-community-release-el6-5.noarch.rpm # 这个rpm还不是mysql的安装文件，只是两个yum源文件，执行后，在/etc/yum.repos.d/ 这个目录下多出mysql-community-source.repo和mysql-community.repo
 yum repolist all | grep mysql # 可以用yum repolist mysql这个命令查看一下是否已经有mysql可安装文件
 yum install mysql-community-server # 6.安装mysql 服务器命令（一路yes）即可
-systemctl enable mysqld.service # 启动MySQL服务
+systemctl start mysqld.service # 启动MySQL服务
 mysql -u root # 输入这个命令即可进入MySQL数据库，刚开始安装好的MySQL5.6的密码是空，提示输入password时，直接点击键盘回车键即可，进入MySQL数据库后输入以下三条命令就可以成功修改MySQL服务登陆密码了
 1.use mysql;
 2.update user set password=PASSWORD("这里输入root用户密码") where User='root';
@@ -181,7 +181,7 @@ port:数据库端口号 (必填)
 
 # 第三部分：微信入口文件
 ```
-地址：http://服务器ip/weixin/index.php/admin/Wxx.php
+地址：http://服务器ip/weixin/Application/Admin/Controller/WxxController.class.php
 1.文件中需要改的参数有:
   1.117行token的参数必须设置为跟微信公众平台的token一致
   2.21行key参数跟node服务器设置的key参数一致
