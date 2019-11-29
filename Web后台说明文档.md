@@ -28,16 +28,11 @@ systemctl enable httpd.service # 设置开机自动启动Apache服务
 systemctl restart httpd.service # 重启apache服务
 第二步：配置Apache
 vi /etc/httpd/conf/httpd.conf #编辑文件
-NameVirtualHost *:80  # 找到这一行把 # 去掉
 AddHandler cgi-script .cgi # 找到这一行修改为：AddHandler cgi-script .cgi .pl （允许扩展名为.pl的CGI脚本运行）
 Options Indexes MultiViews FollowSymLinks # 找到这一行修改为 Options MultiViews FollowSymLinks（不在浏览器上显示树状目录结构）
-ServerSignature On # 找到这一行修改为：ServerSignature Off （在错误页中不显示Apache的版本）
 DirectoryIndex index.html index.html.var # 找到这一行修改为：DirectoryIndex index.html index.htm Default.html Default.htm index.php Default.php index.html.var （设置默认首页文件，增加index.php）
 AllowOverride None # 找到这一行修改为：AllowOverride All （允许.htaccess）
 Options Indexes FollowSymLinks # 找到这一行修改为：Options Includes ExecCGI FollowSymLinks（允许服务器执行CGI及SSI，禁止列出目录）
-MaxKeepAliveRequests 100 # 找到这一行修改为：MaxKeepAliveRequests 1000 （增加同时连接数）
-KeepAlive Off # 找到这一行修改为：KeepAlive On （允许程序性联机）
-ServerTokens OS # 找到这一行修改为：ServerTokens Prod （在出现错误页的时候不显示服务器操作系统的名称）
 :wq!# 保存退出
 systemctl restart httpd.service # 重启apache服务
 rm -f /etc/httpd/conf.d/welcome.conf /var/www/error/noindex.html # 删除默认测试页
@@ -83,8 +78,14 @@ disable_functions = # 列出PHP可以禁用的函数，如果某些程序需要�
 找到open_basedir修改为：;open_basedir = .:/tmp/
 short_open_tag = ON # 支持php短标签
 :wq! # 保存退出
-systemctl enable mysqld.service #重启MySql
-systemctl enable httpd.service #重启Apche
+systemctl restart mysqld.service #重启MySql
+systemctl restart httpd.service #重启Apche后,如果运行web文件目录出现403 forbidden的话,解决方案如下：
+解决方案：
+1.临时关闭
+使用setenforce 0临时关闭SElinux安全系统，但重启后会失效
+2.永久关闭
+输入vi /etc/selinux/config进入SELinux的配置文件，将其中的SELINUX=enforcing改为SELINUX=disabled，并保存退出。
+重启后，SELinux将永久关闭。（一定要记得重启）
 ```
 # 第二部分：开发说明
 ## 1.项目结构
@@ -163,7 +164,7 @@ hostport:数据库端口号 (必填)
 2、在application/config.php文件中修改以下参数
 IP:与服务器接口调用IP地址设置 (必填)
 IP1:跳转页面本地址的IP地址 (必填)
-db_config2:mysql://数据库用户名:数据库密码@服务器IP:数据库端口号/数据库名称 # utf8 (必填)
+db_config2:mysql://数据库用户名:数据库密码@服务器IP:数据库端口号/游戏数据库名称 # utf8 (必填)
 serverException:与node服务器交互时发生错误提示的内容，可自行设置 (必填)
 port:数据库端口号 (必填)
 ```
